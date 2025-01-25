@@ -3,6 +3,7 @@ body, html {
     margin: 0;
   }
   
+  /*Landing Page*/
   .page {
     display: flex;
     flex-direction: column;
@@ -14,6 +15,7 @@ body, html {
     background-size: cover;
     position: relative;
   }
+  /*Website Header/Hotbar*/
   .App-header {
     display: flex;
     flex-direction: row;
@@ -45,6 +47,7 @@ body, html {
     color: lightgray;
   }
   
+  /*Landing Page Photo Overlay*/
   .overlay {
     position: absolute;
     top: 0;
@@ -55,6 +58,7 @@ body, html {
     z-index: 1;
   }
   
+  /*Heading Landing Page*/
   .content {
     position: relative;
     z-index: 2;
@@ -64,17 +68,11 @@ body, html {
 
   }
   
-  .navigation {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin-top: 50px;
-  }
-  
   h2 {
     font-size: 36px;
     margin-bottom: 10px;
+    animation: slideIn 1.5s ease-in-out; /* Apply animation */
+
   }
   
   button:disabled {
@@ -90,3 +88,15 @@ body, html {
         opacity: 1;
     }
 }
+@keyframes slideIn {
+    from {
+      transform: translateY(-50px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  

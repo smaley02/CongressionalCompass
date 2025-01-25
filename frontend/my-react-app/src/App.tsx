@@ -3,11 +3,12 @@ import { BrowserRouter as Router, Routes, Route, Navigate, Link } from 'react-ro
 import './styles/App.css';
 
 // Component definitions
+//Welcome/Landing Page
 const WelcomePage: React.FC = () => {
-
     return (
         <div
       className="page"
+      //background photo
       style={{
         backgroundImage: "url('/congressphoto.png')",
         backgroundSize: 'cover',
@@ -25,6 +26,7 @@ const WelcomePage: React.FC = () => {
     );
 };
 
+//Members of Congress Page
 const CongressPage: React.FC = () => {
     return (
         <div className="page">
@@ -37,7 +39,7 @@ const CongressPage: React.FC = () => {
 const BillsPage: React.FC = () => {
     return (
         <div className="page">
-            <h2>Bills Page</h2>
+        <h2 className="page-header">Bills Page</h2>
             <p>This is the bills page.</p>
         </div>
     );
@@ -53,7 +55,7 @@ const App: React.FC = () => {
             <h1>SwampHacks 2025</h1>
             <nav>
               <ul>
-                <li><Link to="/">Welcome</Link></li>
+                <li><Link to="/">Welcome</Link></li>{/*Hotbar links*/}
                 <li><Link to="/congress">Members of Congress</Link></li>
                 <li><Link to="/bills">Bills Page</Link></li>
               </ul>
