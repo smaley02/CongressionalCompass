@@ -1,0 +1,56 @@
+.top-aligned-page {
+    background-image: url('../../public/congressseal.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+  }
+  
+  /* .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+  } */
+  
+  h2 {
+    color: white;
+    margin-bottom: 30px;
+  }
+  
+  p {
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    max-width: 800px;
+  }
+  
+  .list-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .list-row span {
+    flex: 1;
+    text-align: center;
+  }
+  

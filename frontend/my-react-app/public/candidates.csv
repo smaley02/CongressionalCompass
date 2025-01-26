@@ -1,0 +1,717 @@
+Name,Processed_Name,State,Party,Congresses
+Aderholt,Aderholt,AL,R,"[119, 117, 118]"
+Alford,Alford,MO,R,"[119, 118]"
+Allen,Allen,GA,R,"[119, 117, 118]"
+Amodei,Amodei,NV,R,"[119, 117, 118]"
+Arrington,Arrington,TX,R,"[119, 117, 118]"
+Babin,Babin,TX,R,"[119, 117, 118]"
+Bacon,Bacon,NE,R,"[119, 117, 118]"
+Baird,Baird,IN,R,"[119, 117, 118]"
+Balderson,Balderson,OH,R,"[119, 117, 118]"
+Barr,Barr,KY,R,"[119, 117, 118]"
+Barrett,Barrett,MI,R,[119]
+Baumgartner,Baumgartner,WA,R,[119]
+Bean,Bean,FL,R,"[119, 118]"
+Begich,Begich,AK,R,[119]
+Bentz,Bentz,OR,R,"[119, 117, 118]"
+Bergman,Bergman,MI,R,"[119, 117, 118]"
+Bice,Bice,OK,R,"[119, 117, 118]"
+Biggs,Biggs,AZ,R,"[119, 117, 118]"
+Biggs,Biggs,SC,R,[119]
+Bilirakis,Bilirakis,FL,R,"[119, 117, 118]"
+Boebert,Boebert,CO,R,"[119, 117, 118]"
+Bost,Bost,IL,R,"[119, 117, 118]"
+Brecheen,Brecheen,OK,R,"[119, 118]"
+Bresnahan,Bresnahan,PA,R,[119]
+Buchanan,Buchanan,FL,R,"[119, 117, 118]"
+Burchett,Burchett,TN,R,"[119, 117, 118]"
+Burlison,Burlison,MO,R,"[119, 118]"
+Calvert,Calvert,CA,R,"[119, 117, 118]"
+Cammack,Cammack,FL,R,"[119, 117, 118]"
+Carey,Carey,OH,R,"[119, 117, 118]"
+Carter,Carter,GA,R,"[119, 117, 118]"
+Carter,Carter,TX,R,"[119, 117, 118]"
+Ciscomani,Ciscomani,AZ,R,"[119, 118]"
+Cline,Cline,VA,R,"[119, 117, 118]"
+Cloud,Cloud,TX,R,"[119, 117, 118]"
+Clyde,Clyde,GA,R,"[119, 117, 118]"
+Cole,Cole,OK,R,"[119, 117, 118]"
+Collins,Collins,GA,R,"[119, 118]"
+Comer,Comer,KY,R,"[119, 117, 118]"
+Crane,Crane,AZ,R,"[119, 118]"
+Crank,Crank,CO,R,[119]
+Crawford,Crawford,AR,R,"[119, 117, 118]"
+Crenshaw,Crenshaw,TX,R,"[119, 117, 118]"
+Cuellar,Cuellar,TX,D,"[119, 117, 118]"
+Davidson,Davidson,OH,R,"[119, 117, 118]"
+De La Cruz,De La Cruz,TX,R,"[119, 118]"
+DesJarlais,DesJarlais,TN,R,"[119, 117, 118]"
+Diaz-Balart,Diaz-Balart,FL,R,"[119, 117, 118]"
+Donalds,Donalds,FL,R,"[119, 117, 118]"
+Downing,Downing,MT,R,[119]
+Dunn,Dunn,FL,R,"[119, 117, 118]"
+Edwards,Edwards,NC,R,"[119, 118]"
+Ellzey,Ellzey,TX,R,"[119, 117, 118]"
+Emmer,Emmer,MN,R,"[119, 117, 118]"
+Estes,Estes,KS,R,"[119, 117, 118]"
+Evans,Evans,CO,R,[119]
+Ezell,Ezell,MS,R,"[119, 118]"
+Fallon,Fallon,TX,R,"[119, 117, 118]"
+Fedorchak,Fedorchak,ND,R,[119]
+Feenstra,Feenstra,IA,R,"[119, 117, 118]"
+Finstad,Finstad,MN,R,"[119, 117, 118]"
+Fischbach,Fischbach,MN,R,"[119, 117, 118]"
+Fitzgerald,Fitzgerald,WI,R,"[119, 117, 118]"
+Fitzpatrick,Fitzpatrick,PA,R,"[119, 117, 118]"
+Fleischmann,Fleischmann,TN,R,"[119, 117, 118]"
+Flood,Flood,NE,R,"[119, 117, 118]"
+Fong,Fong,CA,R,"[119, 118]"
+Foxx,Foxx,NC,R,"[119, 117, 118]"
+Franklin,Franklin,FL,R,"[119, 117, 118]"
+Fry,Fry,SC,R,"[119, 118]"
+Fulcher,Fulcher,ID,R,"[119, 117, 118]"
+Garbarino,Garbarino,NY,R,"[119, 117, 118]"
+Gill,Gill,TX,R,[119]
+Gimenez,Gimenez,FL,R,"[119, 117, 118]"
+Goldman,Goldman,TX,R,[119]
+Gonzales,Gonzales,TX,R,"[119, 117, 118]"
+Gooden,Gooden,TX,R,"[119, 117, 118]"
+Gosar,Gosar,AZ,R,"[119, 117, 118]"
+Graves,Graves,MO,R,"[119, 117, 118]"
+Green,Green,TN,R,"[119, 117, 118]"
+Greene,Greene,GA,R,"[119, 117, 118]"
+Griffith,Griffith,VA,R,"[119, 117, 118]"
+Grothman,Grothman,WI,R,"[119, 117, 118]"
+Guest,Guest,MS,R,"[119, 117, 118]"
+Guthrie,Guthrie,KY,R,"[119, 117, 118]"
+Hageman,Hageman,WY,R,"[119, 118]"
+Hamadeh,Hamadeh,AZ,R,[119]
+Haridopolos,Haridopolos,FL,R,[119]
+Harrigan,Harrigan,NC,R,[119]
+Harris,Harris,MD,R,"[119, 117, 118]"
+Harris,Harris,NC,R,[119]
+Harshbarger,Harshbarger,TN,R,"[119, 117, 118]"
+Hern,Hern,OK,R,"[119, 117, 118]"
+Higgins,Higgins,LA,R,"[119, 117, 118]"
+Hill,Hill,AR,R,"[119, 117, 118]"
+Hinson,Hinson,IA,R,"[119, 117, 118]"
+Houchin,Houchin,IN,R,"[119, 118]"
+Hudson,Hudson,NC,R,"[119, 117, 118]"
+Huizenga,Huizenga,MI,R,"[119, 117, 118]"
+Hunt,Hunt,TX,R,"[119, 118]"
+Hurd,Hurd,CO,R,[119]
+Issa,Issa,CA,R,"[119, 117, 118]"
+Jack,Jack,GA,R,[119]
+Jackson,Jackson,TX,R,"[119, 117, 118]"
+James,James,MI,R,"[119, 118]"
+Johnson,Johnson,LA,R,"[119, 117, 118]"
+Johnson,Johnson,SD,R,"[119, 117, 118]"
+Jordan,Jordan,OH,R,"[119, 117, 118]"
+Joyce,Joyce,OH,R,"[119, 117, 118]"
+Joyce,Joyce,PA,R,"[119, 117, 118]"
+Kean,Kean,NJ,R,"[119, 118]"
+Kelly,Kelly,MS,R,"[119, 117, 118]"
+Kelly,Kelly,PA,R,"[119, 117, 118]"
+Kennedy,Kennedy,UT,R,[119]
+Kiggans,Kiggans,VA,R,"[119, 118]"
+Kiley,Kiley,CA,R,"[119, 118]"
+Kim,Kim,CA,R,"[119, 117, 118]"
+Knott,Knott,NC,R,[119]
+Kustoff,Kustoff,TN,R,"[119, 117, 118]"
+LaHood,LaHood,IL,R,"[119, 117, 118]"
+LaLota,LaLota,NY,R,"[119, 118]"
+LaMalfa,LaMalfa,CA,R,"[119, 117, 118]"
+Langworthy,Langworthy,NY,R,"[119, 118]"
+Latta,Latta,OH,R,"[119, 117, 118]"
+Lawler,Lawler,NY,R,"[119, 118]"
+Lee,Lee,FL,R,"[119, 118]"
+Letlow,Letlow,LA,R,"[119, 117, 118]"
+Loudermilk,Loudermilk,GA,R,"[119, 117, 118]"
+Lucas,Lucas,OK,R,"[119, 117, 118]"
+Luna,Luna,FL,R,"[119, 118]"
+Luttrell,Luttrell,TX,R,"[119, 118]"
+Mace,Mace,SC,R,"[119, 117, 118]"
+Mackenzie,Mackenzie,PA,R,[119]
+Malliotakis,Malliotakis,NY,R,"[119, 117, 118]"
+Maloy,Maloy,UT,R,"[119, 118]"
+Mann,Mann,KS,R,"[119, 117, 118]"
+Massie,Massie,KY,R,"[119, 117, 118]"
+Mast,Mast,FL,R,"[119, 117, 118]"
+McCaul,McCaul,TX,R,"[119, 117, 118]"
+McClain,McClain,MI,R,"[119, 117, 118]"
+McClintock,McClintock,CA,R,"[119, 117, 118]"
+McCormick,McCormick,GA,R,"[119, 118]"
+McDowell,McDowell,NC,R,[119]
+McGuire,McGuire,VA,R,[119]
+Messmer,Messmer,IN,R,[119]
+Meuser,Meuser,PA,R,"[119, 117, 118]"
+Miller,Miller,IL,R,"[119, 117, 118]"
+Miller,Miller,OH,R,"[119, 118]"
+Miller,Miller,WV,R,"[119, 117, 118]"
+Miller-Meeks,Miller-Meeks,IA,R,"[119, 117, 118]"
+Mills,Mills,FL,R,"[119, 118]"
+Moolenaar,Moolenaar,MI,R,"[119, 117, 118]"
+Moore,Moore,AL,R,"[119, 117, 118]"
+Moore,Moore,NC,R,[119]
+Moore,Moore,UT,R,"[119, 117, 118]"
+Moore,Moore,WV,R,[119]
+Moran,Moran,TX,R,"[119, 118]"
+Murphy,Murphy,NC,R,"[119, 117, 118]"
+Nehls,Nehls,TX,R,"[119, 117, 118]"
+Newhouse,Newhouse,WA,R,"[119, 117, 118]"
+Norman,Norman,SC,R,"[119, 117, 118]"
+Nunn,Nunn,IA,R,"[119, 118]"
+Obernolte,Obernolte,CA,R,"[119, 117, 118]"
+Ogles,Ogles,TN,R,"[119, 118]"
+Onder,Onder,MO,R,[119]
+Owens,Owens,UT,R,"[119, 117, 118]"
+Palmer,Palmer,AL,R,"[119, 117, 118]"
+Perry,Perry,PA,R,"[119, 117, 118]"
+Pfluger,Pfluger,TX,R,"[119, 117, 118]"
+Reschenthaler,Reschenthaler,PA,R,"[119, 117, 118]"
+Rogers,Rogers,AL,R,"[119, 117, 118]"
+Rogers,Rogers,KY,R,"[119, 117, 118]"
+Rose,Rose,TN,R,"[119, 117, 118]"
+Rouzer,Rouzer,NC,R,"[119, 117, 118]"
+Roy,Roy,TX,R,"[119, 117, 118]"
+Rulli,Rulli,OH,R,"[119, 118]"
+Rutherford,Rutherford,FL,R,"[119, 117, 118]"
+Salazar,Salazar,FL,R,"[119, 117, 118]"
+Scalise,Scalise,LA,R,"[119, 117, 118]"
+Schmidt,Schmidt,KS,R,[119]
+Schweikert,Schweikert,AZ,R,"[119, 117, 118]"
+Scott,Scott,GA,R,"[119, 117, 118]"
+Self,Self,TX,R,"[119, 118]"
+Sessions,Sessions,TX,R,"[119, 117, 118]"
+Shreve,Shreve,IN,R,[119]
+Simpson,Simpson,ID,R,"[119, 117, 118]"
+Smith,Smith,MO,R,"[119, 117, 118]"
+Smith,Smith,NE,R,"[119, 117, 118]"
+Smith,Smith,NJ,R,"[119, 117, 118]"
+Smucker,Smucker,PA,R,"[119, 117, 118]"
+Spartz,Spartz,IN,R,"[119, 117, 118]"
+Stauber,Stauber,MN,R,"[119, 117, 118]"
+Stefanik,Stefanik,NY,R,"[119, 117, 118]"
+Steil,Steil,WI,R,"[119, 117, 118]"
+Steube,Steube,FL,R,"[119, 117, 118]"
+Strong,Strong,AL,R,"[119, 118]"
+Stutzman,Stutzman,IN,R,[119]
+Taylor,Taylor,OH,R,[119]
+Tenney,Tenney,NY,R,"[119, 117, 118]"
+Thompson,Thompson,PA,R,"[119, 117, 118]"
+Tiffany,Tiffany,WI,R,"[119, 117, 118]"
+Timmons,Timmons,SC,R,"[119, 117, 118]"
+Turner,Turner,OH,R,"[119, 117, 118]"
+Valadao,Valadao,CA,R,"[119, 117, 118]"
+Van Drew,Van Drew,NJ,R,"[119, 117, 118]"
+Van Duyne,Van Duyne,TX,R,"[119, 117, 118]"
+Van Orden,Van Orden,WI,R,"[119, 118]"
+Wagner,Wagner,MO,R,"[119, 117, 118]"
+Walberg,Walberg,MI,R,"[119, 117, 118]"
+Weber,Weber,TX,R,"[119, 117, 118]"
+Webster,Webster,FL,R,"[119, 117, 118]"
+Westerman,Westerman,AR,R,"[119, 117, 118]"
+Wied,Wied,WI,R,"[119, 118]"
+Wittman,Wittman,VA,R,"[119, 117, 118]"
+Womack,Womack,AR,R,"[119, 117, 118]"
+Yakym,Yakym,IN,R,"[119, 117, 118]"
+Zinke,Zinke,MT,R,"[119, 118]"
+Adams,Adams,NC,D,"[119, 117, 118]"
+Aguilar,Aguilar,CA,D,"[119, 117, 118]"
+Amo,Amo,RI,D,"[119, 118]"
+Ansari,Ansari,AZ,D,[119]
+Auchincloss,Auchincloss,MA,D,"[119, 117, 118]"
+Balint,Balint,VT,D,"[119, 118]"
+Barragán,Barragán,CA,D,"[119, 117, 118]"
+Beatty,Beatty,OH,D,"[119, 117, 118]"
+Bell,Bell,MO,D,[119]
+Bera,Bera,CA,D,"[119, 117, 118]"
+Beyer,Beyer,VA,D,"[119, 117, 118]"
+Bishop,Bishop,GA,D,"[119, 117, 118]"
+Bonamici,Bonamici,OR,D,"[119, 117, 118]"
+Boyle,Boyle,PA,D,"[119, 117, 118]"
+Brown,Brown,OH,D,"[119, 117, 118]"
+Brownley,Brownley,CA,D,"[119, 117, 118]"
+Budzinski,Budzinski,IL,D,"[119, 118]"
+Bynum,Bynum,OR,D,[119]
+Carbajal,Carbajal,CA,D,"[119, 117, 118]"
+Carson,Carson,IN,D,"[119, 117, 118]"
+Carter,Carter,LA,D,"[119, 117, 118]"
+Casar,Casar,TX,D,"[119, 118]"
+Case,Case,HI,D,"[119, 117, 118]"
+Casten,Casten,IL,D,"[119, 117, 118]"
+Castor,Castor,FL,D,"[119, 117, 118]"
+Castro,Castro,TX,D,"[119, 117, 118]"
+Cherfilus-McCormick,Cherfilus-McCormick,FL,D,"[119, 117, 118]"
+Chu,Chu,CA,D,"[119, 117, 118]"
+Cisneros,Cisneros,CA,D,[119]
+Clark,Clark,MA,D,"[119, 117, 118]"
+Clarke,Clarke,NY,D,"[119, 117, 118]"
+Cleaver,Cleaver,MO,D,"[119, 117, 118]"
+Clyburn,Clyburn,SC,D,"[119, 117, 118]"
+Cohen,Cohen,TN,D,"[119, 117, 118]"
+Conaway,Conaway,NJ,D,[119]
+Connolly,Connolly,VA,D,"[119, 117, 118]"
+Costa,Costa,CA,D,"[119, 117, 118]"
+Courtney,Courtney,CT,D,"[119, 117, 118]"
+Craig,Craig,MN,D,"[119, 117, 118]"
+Crockett,Crockett,TX,D,"[119, 118]"
+Crow,Crow,CO,D,"[119, 117, 118]"
+Davids,Davids,KS,D,"[119, 117, 118]"
+Davis,Davis,IL,D,"[119, 117, 118]"
+Davis,Davis,NC,D,"[119, 118]"
+Dean,Dean,PA,D,"[119, 117, 118]"
+DeGette,DeGette,CO,D,"[119, 117, 118]"
+DeLauro,DeLauro,CT,D,"[119, 117, 118]"
+DelBene,DelBene,WA,D,"[119, 117, 118]"
+Deluzio,Deluzio,PA,D,"[119, 118]"
+DeSaulnier,DeSaulnier,CA,D,"[119, 117, 118]"
+Dexter,Dexter,OR,D,[119]
+Dingell,Dingell,MI,D,"[119, 117, 118]"
+Doggett,Doggett,TX,D,"[119, 117, 118]"
+Elfreth,Elfreth,MD,D,[119]
+Escobar,Escobar,TX,D,"[119, 117, 118]"
+Espaillat,Espaillat,NY,D,"[119, 117, 118]"
+Evans,Evans,PA,D,"[119, 117, 118]"
+Fields,Fields,LA,D,[119]
+Figures,Figures,AL,D,[119]
+Fletcher,Fletcher,TX,D,"[119, 117, 118]"
+Foster,Foster,IL,D,"[119, 117, 118]"
+Foushee,Foushee,NC,D,"[119, 118]"
+Frankel,Frankel,FL,D,"[119, 117, 118]"
+Friedman,Friedman,CA,D,[119]
+Frost,Frost,FL,D,"[119, 118]"
+Garcia,Garcia,CA,D,"[119, 117, 118]"
+García,García,IL,D,"[119, 117, 118]"
+Garcia,Garcia,TX,D,"[119, 117, 118]"
+Gillen,Gillen,NY,D,[119]
+Golden,Golden,ME,D,"[119, 117, 118]"
+Goldman,Goldman,NY,D,"[119, 118]"
+Gomez,Gomez,CA,D,"[119, 117, 118]"
+Goodlander,Goodlander,NH,D,[119]
+Gottheimer,Gottheimer,NJ,D,"[119, 117, 118]"
+Gray,Gray,CA,D,[119]
+Green,Green,TX,D,"[119, 117, 118]"
+Harder,Harder,CA,D,"[119, 117, 118]"
+Hayes,Hayes,CT,D,"[119, 117, 118]"
+Himes,Himes,CT,D,"[119, 117, 118]"
+Horsford,Horsford,NV,D,"[119, 117, 118]"
+Houlahan,Houlahan,PA,D,"[119, 117, 118]"
+Hoyer,Hoyer,MD,D,"[119, 117, 118]"
+Hoyle,Hoyle,OR,D,"[119, 118]"
+Huffman,Huffman,CA,D,"[119, 117, 118]"
+Ivey,Ivey,MD,D,"[119, 118]"
+Jackson,Jackson,IL,D,"[119, 118]"
+Jacobs,Jacobs,CA,D,"[119, 117, 118]"
+Jeffries,Jeffries,NY,D,"[119, 117, 118]"
+Johnson,Johnson,GA,D,"[119, 117, 118]"
+Johnson,Johnson,TX,D,"[119, 117]"
+Kamlager-Dove,Kamlager-Dove,CA,D,"[119, 118]"
+Kaptur,Kaptur,OH,D,"[119, 117, 118]"
+Keating,Keating,MA,D,"[119, 117, 118]"
+Kelly,Kelly,IL,D,"[119, 117, 118]"
+Kennedy,Kennedy,NY,D,"[119, 118]"
+Khanna,Khanna,CA,D,"[119, 117, 118]"
+Krishnamoorthi,Krishnamoorthi,IL,D,"[119, 117, 118]"
+Landsman,Landsman,OH,D,"[119, 118]"
+Larsen,Larsen,WA,D,"[119, 117, 118]"
+Larson,Larson,CT,D,"[119, 117, 118]"
+Latimer,Latimer,NY,D,[119]
+Lee,Lee,NV,D,"[119, 117, 118]"
+Lee,Lee,PA,D,"[119, 118]"
+Leger Fernandez,Leger Fernandez,NM,D,"[119, 117, 118]"
+Levin,Levin,CA,D,"[119, 117, 118]"
+Liccardo,Liccardo,CA,D,[119]
+Lieu,Lieu,CA,D,"[119, 117, 118]"
+Lofgren,Lofgren,CA,D,"[119, 117, 118]"
+Lynch,Lynch,MA,D,"[119, 117, 118]"
+Magaziner,Magaziner,RI,D,"[119, 118]"
+Mannion,Mannion,NY,D,[119]
+Matsui,Matsui,CA,D,"[119, 117, 118]"
+McBath,McBath,GA,D,"[119, 117, 118]"
+McBride,McBride,DE,D,[119]
+McClain Delaney,McClain Delaney,MD,D,[119]
+McClellan,McClellan,VA,D,"[119, 118]"
+McCollum,McCollum,MN,D,"[119, 117, 118]"
+McDonald Rivet,McDonald Rivet,MI,D,[119]
+McGarvey,McGarvey,KY,D,"[119, 118]"
+McGovern,McGovern,MA,D,"[119, 117, 118]"
+McIver,McIver,NJ,D,"[119, 118]"
+Meeks,Meeks,NY,D,"[119, 117, 118]"
+Menendez,Menendez,NJ,D,"[119, 118]"
+Meng,Meng,NY,D,"[119, 117, 118]"
+Mfume,Mfume,MD,D,"[119, 117, 118]"
+Min,Min,CA,D,[119]
+Moore,Moore,WI,D,"[119, 117, 118]"
+Morelle,Morelle,NY,D,"[119, 117, 118]"
+Morrison,Morrison,MN,D,[119]
+Moskowitz,Moskowitz,FL,D,"[119, 118]"
+Moulton,Moulton,MA,D,"[119, 117, 118]"
+Mullin,Mullin,CA,D,"[119, 118]"
+Nadler,Nadler,NY,D,"[119, 117, 118]"
+Neal,Neal,MA,D,"[119, 117, 118]"
+Neguse,Neguse,CO,D,"[119, 117, 118]"
+Norcross,Norcross,NJ,D,"[119, 117, 118]"
+Ocasio-Cortez,Ocasio-Cortez,NY,D,"[119, 117, 118]"
+Olszewski,Olszewski,MD,D,[119]
+Omar,Omar,MN,D,"[119, 117, 118]"
+Pallone,Pallone,NJ,D,"[119, 117, 118]"
+Panetta,Panetta,CA,D,"[119, 117, 118]"
+Pappas,Pappas,NH,D,"[119, 117, 118]"
+Perez,Perez,WA,D,"[119, 118]"
+Peters,Peters,CA,D,"[119, 117, 118]"
+Pingree,Pingree,ME,D,"[119, 117, 118]"
+Pocan,Pocan,WI,D,"[119, 117, 118]"
+Pou,Pou,NJ,D,[119]
+Pressley,Pressley,MA,D,"[119, 117, 118]"
+Quigley,Quigley,IL,D,"[119, 117, 118]"
+Ramirez,Ramirez,IL,D,"[119, 118]"
+Randall,Randall,WA,D,[119]
+Raskin,Raskin,MD,D,"[119, 117, 118]"
+Rivas,Rivas,CA,D,[119]
+Ross,Ross,NC,D,"[119, 117, 118]"
+Ruiz,Ruiz,CA,D,"[119, 117, 118]"
+Ryan,Ryan,NY,D,"[119, 117, 118]"
+Salinas,Salinas,OR,D,"[119, 118]"
+Sánchez,Sánchez,CA,D,"[119, 117, 118]"
+Scanlon,Scanlon,PA,D,"[119, 117, 118]"
+Schakowsky,Schakowsky,IL,D,"[119, 117, 118]"
+Schneider,Schneider,IL,D,"[119, 117, 118]"
+Scholten,Scholten,MI,D,"[119, 118]"
+Schrier,Schrier,WA,D,"[119, 117, 118]"
+Scott,Scott,VA,D,"[119, 117, 118]"
+Sewell,Sewell,AL,D,"[119, 117, 118]"
+Sherman,Sherman,CA,D,"[119, 117, 118]"
+Sherrill,Sherrill,NJ,D,"[119, 117, 118]"
+Simon,Simon,CA,D,[119]
+Smith,Smith,WA,D,"[119, 117, 118]"
+Sorensen,Sorensen,IL,D,"[119, 118]"
+Soto,Soto,FL,D,"[119, 117, 118]"
+Stansbury,Stansbury,NM,D,"[119, 117, 118]"
+Stanton,Stanton,AZ,D,"[119, 117, 118]"
+Stevens,Stevens,MI,D,"[119, 117, 118]"
+Strickland,Strickland,WA,D,"[119, 117, 118]"
+Subramanyam,Subramanyam,VA,D,[119]
+Suozzi,Suozzi,NY,D,"[119, 117, 118]"
+Swalwell,Swalwell,CA,D,"[119, 117, 118]"
+Sykes,Sykes,OH,D,"[119, 118]"
+Takano,Takano,CA,D,"[119, 117, 118]"
+Thanedar,Thanedar,MI,D,"[119, 118]"
+Thompson,Thompson,CA,D,"[119, 117, 118]"
+Thompson,Thompson,MS,D,"[119, 117, 118]"
+Titus,Titus,NV,D,"[119, 117, 118]"
+Tlaib,Tlaib,MI,D,"[119, 117, 118]"
+Tokuda,Tokuda,HI,D,"[119, 118]"
+Tonko,Tonko,NY,D,"[119, 117, 118]"
+Torres,Torres,CA,D,"[119, 117, 118]"
+Torres,Torres,NY,D,"[119, 117, 118]"
+Trahan,Trahan,MA,D,"[119, 117, 118]"
+Tran,Tran,CA,D,[119]
+Turner,Turner,TX,D,[119]
+Underwood,Underwood,IL,D,"[119, 117, 118]"
+Vargas,Vargas,CA,D,"[119, 117, 118]"
+Vasquez,Vasquez,NM,D,"[119, 118]"
+Veasey,Veasey,TX,D,"[119, 117, 118]"
+Velázquez,Velázquez,NY,D,"[119, 117, 118]"
+Vindman,Vindman,VA,D,[119]
+Wasserman Schultz,Wasserman Schultz,FL,D,"[119, 117, 118]"
+Waters,Waters,CA,D,"[119, 117, 118]"
+Watson Coleman,Watson Coleman,NJ,D,"[119, 117, 118]"
+Williams,Williams,GA,D,"[119, 117, 118]"
+Wilson,Wilson,FL,D,"[119, 117, 118]"
+Gonzalez,Gonzalez,TX,D,"[119, 117, 118]"
+Riley,Riley,NY,D,[119]
+Williams,Williams,TX,R,"[119, 117, 118]"
+Wilson,Wilson,SC,R,"[119, 117, 118]"
+Correa,Correa,CA,D,"[119, 117, 118]"
+Garamendi,Garamendi,CA,D,"[119, 117, 118]"
+Jayapal,Jayapal,WA,D,"[119, 117, 118]"
+Mrvan,Mrvan,IN,D,"[119, 117, 118]"
+Pelosi,Pelosi,CA,D,"[119, 117, 118]"
+Pettersen,Pettersen,CO,D,"[119, 118]"
+Waltz,Waltz,FL,R,"[119, 117, 118]"
+Whitesides,Whitesides,CA,D,[119]
+Banks (R-IN),Banks,IN,R,[119]
+Barrasso (R-WY),Barrasso,WY,R,"[119, 117, 118]"
+Blackburn (R-TN),Blackburn,TN,R,"[119, 117, 118]"
+Boozman (R-AR),Boozman,AR,R,"[119, 117, 118]"
+Britt (R-AL),Britt,AL,R,"[119, 118]"
+Budd (R-NC),Budd,NC,R,"[119, 118]"
+Capito (R-WV),Capito,WV,R,"[119, 117, 118]"
+Cassidy (R-LA),Cassidy,LA,R,"[119, 117, 118]"
+Collins (R-ME),Collins,ME,R,"[119, 117, 118]"
+Cornyn (R-TX),Cornyn,TX,R,"[119, 117, 118]"
+Cortez Masto (D-NV),Cortez Masto,NV,D,"[119, 117, 118]"
+Cotton (R-AR),Cotton,AR,R,"[119, 117, 118]"
+Cramer (R-ND),Cramer,ND,R,"[119, 117, 118]"
+Crapo (R-ID),Crapo,ID,R,"[119, 117, 118]"
+Cruz (R-TX),Cruz,TX,R,"[119, 117, 118]"
+Curtis (R-UT),Curtis,UT,R,[119]
+Daines (R-MT),Daines,MT,R,"[119, 117, 118]"
+Ernst (R-IA),Ernst,IA,R,"[119, 117, 118]"
+Fetterman (D-PA),Fetterman,PA,D,"[119, 118]"
+Fischer (R-NE),Fischer,NE,R,"[119, 117, 118]"
+Gallego (D-AZ),Gallego,AZ,D,[119]
+Graham (R-SC),Graham,SC,R,"[119, 117, 118]"
+Grassley (R-IA),Grassley,IA,R,"[119, 117, 118]"
+Hagerty (R-TN),Hagerty,TN,R,"[119, 117, 118]"
+Hassan (D-NH),Hassan,NH,D,"[119, 117, 118]"
+Hawley (R-MO),Hawley,MO,R,"[119, 117, 118]"
+Hoeven (R-ND),Hoeven,ND,R,"[119, 117, 118]"
+Hyde-Smith (R-MS),Hyde-Smith,MS,R,"[119, 117, 118]"
+Johnson (R-WI),Johnson,WI,R,"[119, 117, 118]"
+Justice (R-WV),Justice,WV,R,[119]
+Kelly (D-AZ),Kelly,AZ,D,"[119, 117, 118]"
+Kennedy (R-LA),Kennedy,LA,R,"[119, 117, 118]"
+Lankford (R-OK),Lankford,OK,R,"[119, 117, 118]"
+Lee (R-UT),Lee,UT,R,"[119, 117, 118]"
+Lummis (R-WY),Lummis,WY,R,"[119, 117, 118]"
+Marshall (R-KS),Marshall,KS,R,"[119, 117, 118]"
+McConnell (R-KY),McConnell,KY,R,"[119, 117, 118]"
+McCormick (R-PA),McCormick,PA,R,[119]
+Moran (R-KS),Moran,KS,R,"[119, 117, 118]"
+Moreno (R-OH),Moreno,OH,R,[119]
+Mullin (R-OK),Mullin,OK,R,"[119, 118]"
+Murkowski (R-AK),Murkowski,AK,R,"[119, 117, 118]"
+Ossoff (D-GA),Ossoff,GA,D,"[119, 117, 118]"
+Paul (R-KY),Paul,KY,R,"[119, 117, 118]"
+Peters (D-MI),Peters,MI,D,"[119, 117, 118]"
+Ricketts (R-NE),Ricketts,NE,R,"[119, 118]"
+Risch (R-ID),Risch,ID,R,"[119, 117, 118]"
+Rosen (D-NV),Rosen,NV,D,"[119, 117, 118]"
+Rounds (R-SD),Rounds,SD,R,"[119, 117, 118]"
+Rubio (R-FL),Rubio,FL,R,"[119, 117, 118]"
+Schmitt (R-MO),Schmitt,MO,R,"[119, 118]"
+Scott (R-FL),Scott,FL,R,"[119, 117, 118]"
+Scott (R-SC),Scott,SC,R,"[119, 117, 118]"
+Shaheen (D-NH),Shaheen,NH,D,"[119, 117, 118]"
+Sheehy (R-MT),Sheehy,MT,R,[119]
+Slotkin (D-MI),Slotkin,MI,D,[119]
+Sullivan (R-AK),Sullivan,AK,R,"[119, 117, 118]"
+Thune (R-SD),Thune,SD,R,"[119, 117, 118]"
+Tillis (R-NC),Tillis,NC,R,"[119, 117, 118]"
+Tuberville (R-AL),Tuberville,AL,R,"[119, 117, 118]"
+Warner (D-VA),Warner,VA,D,"[119, 117, 118]"
+Warnock (D-GA),Warnock,GA,D,"[119, 117, 118]"
+Wicker (R-MS),Wicker,MS,R,"[119, 117, 118]"
+Young (R-IN),Young,IN,R,"[119, 117, 118]"
+Alsobrooks (D-MD),Alsobrooks,MD,D,[119]
+Baldwin (D-WI),Baldwin,WI,D,"[119, 117, 118]"
+Bennet (D-CO),Bennet,CO,D,"[119, 117, 118]"
+Blumenthal (D-CT),Blumenthal,CT,D,"[119, 117, 118]"
+Blunt Rochester (D-DE),Blunt Rochester,DE,D,[119]
+Booker (D-NJ),Booker,NJ,D,"[119, 117, 118]"
+Cantwell (D-WA),Cantwell,WA,D,"[119, 117, 118]"
+Coons (D-DE),Coons,DE,D,"[119, 117, 118]"
+Duckworth (D-IL),Duckworth,IL,D,"[119, 117, 118]"
+Durbin (D-IL),Durbin,IL,D,"[119, 117, 118]"
+Gillibrand (D-NY),Gillibrand,NY,D,"[119, 117, 118]"
+Heinrich (D-NM),Heinrich,NM,D,"[119, 117, 118]"
+Hickenlooper (D-CO),Hickenlooper,CO,D,"[119, 117, 118]"
+Hirono (D-HI),Hirono,HI,D,"[119, 117, 118]"
+Kaine (D-VA),Kaine,VA,D,"[119, 117, 118]"
+Kim (D-NJ),Kim,NJ,D,"[119, 118]"
+King (I-ME),King,ME,I,"[119, 117, 118]"
+Klobuchar (D-MN),Klobuchar,MN,D,"[119, 117, 118]"
+Lujan (D-NM),Lujan,NM,D,"[119, 117, 118]"
+Markey (D-MA),Markey,MA,D,"[119, 117, 118]"
+Merkley (D-OR),Merkley,OR,D,"[119, 117, 118]"
+Murphy (D-CT),Murphy,CT,D,"[119, 117, 118]"
+Murray (D-WA),Murray,WA,D,"[119, 117, 118]"
+Padilla (D-CA),Padilla,CA,D,"[119, 117, 118]"
+Reed (D-RI),Reed,RI,D,"[119, 117, 118]"
+Sanders (I-VT),Sanders,VT,I,"[119, 117, 118]"
+Schatz (D-HI),Schatz,HI,D,"[119, 117, 118]"
+Schiff (D-CA),Schiff,CA,D,"[119, 118]"
+Schumer (D-NY),Schumer,NY,D,"[119, 117, 118]"
+Smith (D-MN),Smith,MN,D,"[119, 117, 118]"
+Van Hollen (D-MD),Van Hollen,MD,D,"[119, 117, 118]"
+Warren (D-MA),Warren,MA,D,"[119, 117, 118]"
+Welch (D-VT),Welch,VT,D,"[119, 118]"
+Whitehouse (D-RI),Whitehouse,RI,D,"[119, 117, 118]"
+Wyden (D-OR),Wyden,OR,D,"[119, 117, 118]"
+Vance (R-OH),Vance,OH,R,"[119, 118]"
+Husted (R-OH),Husted,OH,R,[119]
+Moody (R-FL),Moody,FL,R,[119]
+Allred,Allred,TX,D,"[117, 118]"
+Axne,Axne,IA,D,[117]
+Bass,Bass,CA,D,[117]
+Blumenauer,Blumenauer,OR,D,"[117, 118]"
+Blunt Rochester,Blunt Rochester,DE,D,"[117, 118]"
+Bourdeaux,Bourdeaux,GA,D,[117]
+Bowman,Bowman,NY,D,"[117, 118]"
+Brown,Brown,MD,D,[117]
+Bush,Bush,MO,D,"[117, 118]"
+Bustos,Bustos,IL,D,[117]
+Butterfield,Butterfield,NC,D,[117]
+Cárdenas,Cárdenas,CA,D,"[117, 118]"
+Cartwright,Cartwright,PA,D,"[117, 118]"
+Cicilline,Cicilline,RI,D,"[117, 118]"
+Cooper,Cooper,TN,D,[117]
+Crist,Crist,FL,D,[117]
+DeFazio,DeFazio,OR,D,[117]
+Delgado,Delgado,NY,D,[117]
+Demings,Demings,FL,D,[117]
+Deutch,Deutch,FL,D,[117]
+Doyle,Doyle,PA,D,[117]
+Eshoo,Eshoo,CA,D,"[117, 118]"
+Fudge,Fudge,OH,D,[117]
+Gallego,Gallego,AZ,D,"[117, 118]"
+Grijalva,Grijalva,AZ,D,"[117, 118]"
+Haaland,Haaland,NM,D,[117]
+Hastings,Hastings,FL,D,[117]
+Higgins,Higgins,NY,D,"[117, 118]"
+Jackson Lee,Jackson Lee,TX,D,"[117, 118]"
+Jones,Jones,NY,D,[117]
+Kahele,Kahele,HI,D,[117]
+Kildee,Kildee,MI,D,"[117, 118]"
+Kilmer,Kilmer,WA,D,"[117, 118]"
+Kim,Kim,NJ,D,"[117, 118]"
+Kind,Kind,WI,D,[117]
+Kirkpatrick,Kirkpatrick,AZ,D,[117]
+Kuster,Kuster,NH,D,"[117, 118]"
+Lamb,Lamb,PA,D,[117]
+Langevin,Langevin,RI,D,[117]
+Lawrence,Lawrence,MI,D,[117]
+Lawson,Lawson,FL,D,[117]
+Lee,Lee,CA,D,"[117, 118]"
+Levin,Levin,MI,D,[117]
+Lowenthal,Lowenthal,CA,D,[117]
+Luria,Luria,VA,D,[117]
+Malinowski,Malinowski,NJ,D,[117]
+Maloney,Maloney,NY,D,[117]
+Manning,Manning,NC,D,"[117, 118]"
+McEachin,McEachin,VA,D,[117]
+McNerney,McNerney,CA,D,[117]
+Murphy,Murphy,FL,D,[117]
+Napolitano,Napolitano,CA,D,"[117, 118]"
+Newman,Newman,IL,D,[117]
+O'Halleran,O'Halleran,AZ,D,[117]
+Pascrell,Pascrell,NJ,D,"[117, 118]"
+Payne,Payne,NJ,D,"[117, 118]"
+Perlmutter,Perlmutter,CO,D,[117]
+Phillips,Phillips,MN,D,"[117, 118]"
+Porter,Porter,CA,D,"[117, 118]"
+Price,Price,NC,D,[117]
+Rice,Rice,NY,D,[117]
+Roybal-Allard,Roybal-Allard,CA,D,[117]
+Ruppersberger,Ruppersberger,MD,D,"[117, 118]"
+Rush,Rush,IL,D,[117]
+Ryan,Ryan,OH,D,[117]
+Sarbanes,Sarbanes,MD,D,"[117, 118]"
+Schiff,Schiff,CA,D,"[117, 118]"
+Schrader,Schrader,OR,D,[117]
+Sires,Sires,NJ,D,[117]
+Slotkin,Slotkin,MI,D,"[117, 118]"
+Spanberger,Spanberger,VA,D,"[117, 118]"
+Speier,Speier,CA,D,[117]
+Trone,Trone,MD,D,"[117, 118]"
+Vela,Vela,TX,D,[117]
+Welch,Welch,VT,D,[117]
+Wexton,Wexton,VA,D,"[117, 118]"
+Wild,Wild,PA,D,"[117, 118]"
+Yarmuth,Yarmuth,KY,D,[117]
+Armstrong,Armstrong,ND,R,"[117, 118]"
+Banks,Banks,IN,R,"[117, 118]"
+Bishop,Bishop,NC,R,"[117, 118]"
+Brady,Brady,TX,R,[117]
+Brooks,Brooks,AL,R,[117]
+Buck,Buck,CO,R,"[117, 118]"
+Bucshon,Bucshon,IN,R,"[117, 118]"
+Budd,Budd,NC,R,[117]
+Burgess,Burgess,TX,R,"[117, 118]"
+Carl,Carl,AL,R,"[117, 118]"
+Cawthorn,Cawthorn,NC,R,[117]
+Chabot,Chabot,OH,R,[117]
+Cheney,Cheney,WY,R,[117]
+Curtis,Curtis,UT,R,"[117, 118]"
+Duncan,Duncan,SC,R,"[117, 118]"
+Ferguson,Ferguson,GA,R,"[117, 118]"
+Fortenberry,Fortenberry,NE,R,[117]
+Gaetz,Gaetz,FL,R,"[117, 118]"
+Gallagher,Gallagher,WI,R,"[117, 118]"
+Gibbs,Gibbs,OH,R,[117]
+Gohmert,Gohmert,TX,R,[117]
+Gonzalez,Gonzalez,OH,R,[117]
+Good,Good,VA,R,"[117, 118]"
+Granger,Granger,TX,R,"[117, 118]"
+Graves,Graves,LA,R,"[117, 118]"
+Hagedorn,Hagedorn,MN,R,[117]
+Hartzler,Hartzler,MO,R,[117]
+Herrell,Herrell,NM,R,[117]
+Herrera Beutler,Herrera Beutler,WA,R,[117]
+Hice,Hice,GA,R,[117]
+Hollingsworth,Hollingsworth,IN,R,[117]
+Jacobs,Jacobs,NY,R,[117]
+Johnson,Johnson,OH,R,"[117, 118]"
+Katko,Katko,NY,R,[117]
+Keller,Keller,PA,R,[117]
+Kinzinger,Kinzinger,IL,R,[117]
+Lamborn,Lamborn,CO,R,"[117, 118]"
+LaTurner,LaTurner,KS,R,"[117, 118]"
+Lesko,Lesko,AZ,R,"[117, 118]"
+Long,Long,MO,R,[117]
+Luetkemeyer,Luetkemeyer,MO,R,"[117, 118]"
+McCarthy,McCarthy,CA,R,"[117, 118]"
+McHenry,McHenry,NC,R,"[117, 118]"
+McKinley,McKinley,WV,R,[117]
+Meijer,Meijer,MI,R,[117]
+Mooney,Mooney,WV,R,"[117, 118]"
+Mullin,Mullin,OK,R,[117]
+Nunes,Nunes,CA,R,[117]
+Palazzo,Palazzo,MS,R,[117]
+Pence,Pence,IN,R,"[117, 118]"
+Posey,Posey,FL,R,"[117, 118]"
+Reed,Reed,NY,R,[117]
+Rice,Rice,SC,R,[117]
+Rodgers,Rodgers,WA,R,"[117, 118]"
+Rosendale,Rosendale,MT,R,"[117, 118]"
+Steel,Steel,CA,R,"[117, 118]"
+Stewart,Stewart,UT,R,"[117, 118]"
+Stivers,Stivers,OH,R,[117]
+Taylor,Taylor,TX,R,[117]
+Upton,Upton,MI,R,[117]
+Walorski,Walorski,IN,R,[117]
+Wenstrup,Wenstrup,OH,R,"[117, 118]"
+Young,Young,AK,R,[117]
+Zeldin,Zeldin,NY,R,[117]
+Brown (D-OH),Brown,OH,D,"[117, 118]"
+Cardin (D-MD),Cardin,MD,D,"[117, 118]"
+Carper (D-DE),Carper,DE,D,"[117, 118]"
+Casey (D-PA),Casey,PA,D,"[117, 118]"
+Feinstein (D-CA),Feinstein,CA,D,"[117, 118]"
+Leahy (D-VT),Leahy,VT,D,[117]
+Manchin (D-WV),Manchin,WV,D,"[117, 118]"
+Menendez (D-NJ),Menendez,NJ,D,"[117, 118]"
+Sinema (D-AZ),Sinema,AZ,D,[117]
+Stabenow (D-MI),Stabenow,MI,D,"[117, 118]"
+Tester (D-MT),Tester,MT,D,"[117, 118]"
+Blunt (R-MO),Blunt,MO,R,[117]
+Braun (R-IN),Braun,IN,R,"[117, 118]"
+Burr (R-NC),Burr,NC,R,[117]
+Inhofe (R-OK),Inhofe,OK,R,[117]
+Portman (R-OH),Portman,OH,R,[117]
+Romney (R-UT),Romney,UT,R,"[117, 118]"
+Sasse (R-NE),Sasse,NE,R,[117]
+Shelby (R-AL),Shelby,AL,R,[117]
+Toomey (R-PA),Toomey,PA,R,[117]
+Wright,Wright,TX,R,[117]
+Conway,Conway,CA,R,[117]
+Flores,Flores,TX,R,[117]
+Peltola,Peltola,AK,D,"[117, 118]"
+Sempolinski,Sempolinski,NY,R,[117]
+Chavez-DeRemer,Chavez-DeRemer,OR,R,[118]
+D'Esposito,D'Esposito,NY,R,[118]
+Duarte,Duarte,CA,R,[118]
+Molinaro,Molinaro,NY,R,[118]
+Santos,Santos,NY,R,[118]
+Williams,Williams,NY,R,[118]
+Caraveo,Caraveo,CO,D,[118]
+Jackson,Jackson,NC,D,[118]
+Nickel,Nickel,NC,D,[118]
+Sinema (I-AZ),Sinema,AZ,I,[118]
+Manchin (I-WV),Manchin,WV,I,[118]
+Lopez,Lopez,CO,R,[118]
+Lee Carter,Lee Carter,TX,D,[118]
+Butler (D-CA),Butler,CA,D,[118]
+Helmy (D-NJ),Helmy,NJ,D,[118]

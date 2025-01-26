@@ -1,1 +1,7 @@
-node_modules
+frontend/my-react-app/node_modules
+.env
+.vscode
+.ipynb_checkpoints
+__pycache__
+backend/venv
+
