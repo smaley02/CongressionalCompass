@@ -149,6 +149,7 @@ h2 {
   cursor: pointer;
   z-index: 2;
   animation: slideIn 1.5s ease-in-out; /* Apply the fadeIn animation */
+
 }
 
 .dropdown-content {
@@ -160,6 +161,7 @@ h2 {
   z-index: 1;
   top: 100%; /* Position below the button */
   left: 0;
+
 }
 
 .dropdown-content a {

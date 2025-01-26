@@ -12,7 +12,7 @@ const WelcomePage: React.FC = () => {
       style={{
         backgroundImage: "url('/congressphoto.png')",
         backgroundSize: 'cover',
-        backgroundPosition: 'center',
+        backgroundPosition: 'center', 
         backgroundRepeat: 'no-repeat',
         height: '100vh',
         width: '100vw',
@@ -47,9 +47,9 @@ const CongressPage: React.FC = () => {
             <div className="overlay"></div>
 
             <h2>Members of Congress</h2>
-            <p>This is the congressmen.</p>
+            <p>Select Congress below.</p>
             <div className="dropdown">
-          <button className="dropbtn" onClick={toggleDropdown}>Select Congress</button>
+          <button className="dropbtn" onClick={toggleDropdown}>Congress Number</button>
           <div className={`dropdown-content ${dropdownVisible ? 'show' : ''}`}>
             <a href="/congress119">119th Congress</a>
             <a href="/congress118">118th Congress</a>
@@ -150,4 +150,5 @@ const App: React.FC = () => {
   };
   
   export default App;
+
 
