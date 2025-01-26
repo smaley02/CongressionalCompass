@@ -15,7 +15,7 @@ const App: React.FC = () => {
     <Router>
       <div className="App">
         <header className="App-header">
-          <h1>SwampHacks 2025</h1>
+          <h1>Congressional Compass</h1>
           <nav>
             <ul>
               <li><Link to="/">Welcome</Link></li>

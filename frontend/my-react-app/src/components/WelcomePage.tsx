@@ -15,7 +15,7 @@ const WelcomePage: React.FC = () => {
     >
       <div className="overlay"></div>
       <div className="content" style={{ marginTop: '100px' }}>
-        <h2 style={{ fontSize: '60px', textAlign: 'center', fontFamily: 'serif' }}>Welcome!</h2>
+        <h2 style={{ fontSize: '60px', textAlign: 'center', fontFamily: 'serif' }}>Your personal guide to navigating our National Congress.</h2>
       </div>
     </div>
   );
