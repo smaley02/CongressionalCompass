@@ -1,717 +1,790 @@
-Name,Processed_Name,State,Party,Congresses
-Aderholt,Aderholt,AL,R,"[119, 117, 118]"
-Alford,Alford,MO,R,"[119, 118]"
-Allen,Allen,GA,R,"[119, 117, 118]"
-Amodei,Amodei,NV,R,"[119, 117, 118]"
-Arrington,Arrington,TX,R,"[119, 117, 118]"
-Babin,Babin,TX,R,"[119, 117, 118]"
-Bacon,Bacon,NE,R,"[119, 117, 118]"
-Baird,Baird,IN,R,"[119, 117, 118]"
-Balderson,Balderson,OH,R,"[119, 117, 118]"
-Barr,Barr,KY,R,"[119, 117, 118]"
-Barrett,Barrett,MI,R,[119]
-Baumgartner,Baumgartner,WA,R,[119]
-Bean,Bean,FL,R,"[119, 118]"
-Begich,Begich,AK,R,[119]
-Bentz,Bentz,OR,R,"[119, 117, 118]"
-Bergman,Bergman,MI,R,"[119, 117, 118]"
-Bice,Bice,OK,R,"[119, 117, 118]"
-Biggs,Biggs,AZ,R,"[119, 117, 118]"
-Biggs,Biggs,SC,R,[119]
-Bilirakis,Bilirakis,FL,R,"[119, 117, 118]"
-Boebert,Boebert,CO,R,"[119, 117, 118]"
-Bost,Bost,IL,R,"[119, 117, 118]"
-Brecheen,Brecheen,OK,R,"[119, 118]"
-Bresnahan,Bresnahan,PA,R,[119]
-Buchanan,Buchanan,FL,R,"[119, 117, 118]"
-Burchett,Burchett,TN,R,"[119, 117, 118]"
-Burlison,Burlison,MO,R,"[119, 118]"
-Calvert,Calvert,CA,R,"[119, 117, 118]"
-Cammack,Cammack,FL,R,"[119, 117, 118]"
-Carey,Carey,OH,R,"[119, 117, 118]"
-Carter,Carter,GA,R,"[119, 117, 118]"
-Carter,Carter,TX,R,"[119, 117, 118]"
-Ciscomani,Ciscomani,AZ,R,"[119, 118]"
-Cline,Cline,VA,R,"[119, 117, 118]"
-Cloud,Cloud,TX,R,"[119, 117, 118]"
-Clyde,Clyde,GA,R,"[119, 117, 118]"
-Cole,Cole,OK,R,"[119, 117, 118]"
-Collins,Collins,GA,R,"[119, 118]"
-Comer,Comer,KY,R,"[119, 117, 118]"
-Crane,Crane,AZ,R,"[119, 118]"
-Crank,Crank,CO,R,[119]
-Crawford,Crawford,AR,R,"[119, 117, 118]"
-Crenshaw,Crenshaw,TX,R,"[119, 117, 118]"
-Cuellar,Cuellar,TX,D,"[119, 117, 118]"
-Davidson,Davidson,OH,R,"[119, 117, 118]"
-De La Cruz,De La Cruz,TX,R,"[119, 118]"
-DesJarlais,DesJarlais,TN,R,"[119, 117, 118]"
-Diaz-Balart,Diaz-Balart,FL,R,"[119, 117, 118]"
-Donalds,Donalds,FL,R,"[119, 117, 118]"
-Downing,Downing,MT,R,[119]
-Dunn,Dunn,FL,R,"[119, 117, 118]"
-Edwards,Edwards,NC,R,"[119, 118]"
-Ellzey,Ellzey,TX,R,"[119, 117, 118]"
-Emmer,Emmer,MN,R,"[119, 117, 118]"
-Estes,Estes,KS,R,"[119, 117, 118]"
-Evans,Evans,CO,R,[119]
-Ezell,Ezell,MS,R,"[119, 118]"
-Fallon,Fallon,TX,R,"[119, 117, 118]"
-Fedorchak,Fedorchak,ND,R,[119]
-Feenstra,Feenstra,IA,R,"[119, 117, 118]"
-Finstad,Finstad,MN,R,"[119, 117, 118]"
-Fischbach,Fischbach,MN,R,"[119, 117, 118]"
-Fitzgerald,Fitzgerald,WI,R,"[119, 117, 118]"
-Fitzpatrick,Fitzpatrick,PA,R,"[119, 117, 118]"
-Fleischmann,Fleischmann,TN,R,"[119, 117, 118]"
-Flood,Flood,NE,R,"[119, 117, 118]"
-Fong,Fong,CA,R,"[119, 118]"
-Foxx,Foxx,NC,R,"[119, 117, 118]"
-Franklin,Franklin,FL,R,"[119, 117, 118]"
-Fry,Fry,SC,R,"[119, 118]"
-Fulcher,Fulcher,ID,R,"[119, 117, 118]"
-Garbarino,Garbarino,NY,R,"[119, 117, 118]"
-Gill,Gill,TX,R,[119]
-Gimenez,Gimenez,FL,R,"[119, 117, 118]"
-Goldman,Goldman,TX,R,[119]
-Gonzales,Gonzales,TX,R,"[119, 117, 118]"
-Gooden,Gooden,TX,R,"[119, 117, 118]"
-Gosar,Gosar,AZ,R,"[119, 117, 118]"
-Graves,Graves,MO,R,"[119, 117, 118]"
-Green,Green,TN,R,"[119, 117, 118]"
-Greene,Greene,GA,R,"[119, 117, 118]"
-Griffith,Griffith,VA,R,"[119, 117, 118]"
-Grothman,Grothman,WI,R,"[119, 117, 118]"
-Guest,Guest,MS,R,"[119, 117, 118]"
-Guthrie,Guthrie,KY,R,"[119, 117, 118]"
-Hageman,Hageman,WY,R,"[119, 118]"
-Hamadeh,Hamadeh,AZ,R,[119]
-Haridopolos,Haridopolos,FL,R,[119]
-Harrigan,Harrigan,NC,R,[119]
-Harris,Harris,MD,R,"[119, 117, 118]"
-Harris,Harris,NC,R,[119]
-Harshbarger,Harshbarger,TN,R,"[119, 117, 118]"
-Hern,Hern,OK,R,"[119, 117, 118]"
-Higgins,Higgins,LA,R,"[119, 117, 118]"
-Hill,Hill,AR,R,"[119, 117, 118]"
-Hinson,Hinson,IA,R,"[119, 117, 118]"
-Houchin,Houchin,IN,R,"[119, 118]"
-Hudson,Hudson,NC,R,"[119, 117, 118]"
-Huizenga,Huizenga,MI,R,"[119, 117, 118]"
-Hunt,Hunt,TX,R,"[119, 118]"
-Hurd,Hurd,CO,R,[119]
-Issa,Issa,CA,R,"[119, 117, 118]"
-Jack,Jack,GA,R,[119]
-Jackson,Jackson,TX,R,"[119, 117, 118]"
-James,James,MI,R,"[119, 118]"
-Johnson,Johnson,LA,R,"[119, 117, 118]"
-Johnson,Johnson,SD,R,"[119, 117, 118]"
-Jordan,Jordan,OH,R,"[119, 117, 118]"
-Joyce,Joyce,OH,R,"[119, 117, 118]"
-Joyce,Joyce,PA,R,"[119, 117, 118]"
-Kean,Kean,NJ,R,"[119, 118]"
-Kelly,Kelly,MS,R,"[119, 117, 118]"
-Kelly,Kelly,PA,R,"[119, 117, 118]"
-Kennedy,Kennedy,UT,R,[119]
-Kiggans,Kiggans,VA,R,"[119, 118]"
-Kiley,Kiley,CA,R,"[119, 118]"
-Kim,Kim,CA,R,"[119, 117, 118]"
-Knott,Knott,NC,R,[119]
-Kustoff,Kustoff,TN,R,"[119, 117, 118]"
-LaHood,LaHood,IL,R,"[119, 117, 118]"
-LaLota,LaLota,NY,R,"[119, 118]"
-LaMalfa,LaMalfa,CA,R,"[119, 117, 118]"
-Langworthy,Langworthy,NY,R,"[119, 118]"
-Latta,Latta,OH,R,"[119, 117, 118]"
-Lawler,Lawler,NY,R,"[119, 118]"
-Lee,Lee,FL,R,"[119, 118]"
-Letlow,Letlow,LA,R,"[119, 117, 118]"
-Loudermilk,Loudermilk,GA,R,"[119, 117, 118]"
-Lucas,Lucas,OK,R,"[119, 117, 118]"
-Luna,Luna,FL,R,"[119, 118]"
-Luttrell,Luttrell,TX,R,"[119, 118]"
-Mace,Mace,SC,R,"[119, 117, 118]"
-Mackenzie,Mackenzie,PA,R,[119]
-Malliotakis,Malliotakis,NY,R,"[119, 117, 118]"
-Maloy,Maloy,UT,R,"[119, 118]"
-Mann,Mann,KS,R,"[119, 117, 118]"
-Massie,Massie,KY,R,"[119, 117, 118]"
-Mast,Mast,FL,R,"[119, 117, 118]"
-McCaul,McCaul,TX,R,"[119, 117, 118]"
-McClain,McClain,MI,R,"[119, 117, 118]"
-McClintock,McClintock,CA,R,"[119, 117, 118]"
-McCormick,McCormick,GA,R,"[119, 118]"
-McDowell,McDowell,NC,R,[119]
-McGuire,McGuire,VA,R,[119]
-Messmer,Messmer,IN,R,[119]
-Meuser,Meuser,PA,R,"[119, 117, 118]"
-Miller,Miller,IL,R,"[119, 117, 118]"
-Miller,Miller,OH,R,"[119, 118]"
-Miller,Miller,WV,R,"[119, 117, 118]"
-Miller-Meeks,Miller-Meeks,IA,R,"[119, 117, 118]"
-Mills,Mills,FL,R,"[119, 118]"
-Moolenaar,Moolenaar,MI,R,"[119, 117, 118]"
-Moore,Moore,AL,R,"[119, 117, 118]"
-Moore,Moore,NC,R,[119]
-Moore,Moore,UT,R,"[119, 117, 118]"
-Moore,Moore,WV,R,[119]
-Moran,Moran,TX,R,"[119, 118]"
-Murphy,Murphy,NC,R,"[119, 117, 118]"
-Nehls,Nehls,TX,R,"[119, 117, 118]"
-Newhouse,Newhouse,WA,R,"[119, 117, 118]"
-Norman,Norman,SC,R,"[119, 117, 118]"
-Nunn,Nunn,IA,R,"[119, 118]"
-Obernolte,Obernolte,CA,R,"[119, 117, 118]"
-Ogles,Ogles,TN,R,"[119, 118]"
-Onder,Onder,MO,R,[119]
-Owens,Owens,UT,R,"[119, 117, 118]"
-Palmer,Palmer,AL,R,"[119, 117, 118]"
-Perry,Perry,PA,R,"[119, 117, 118]"
-Pfluger,Pfluger,TX,R,"[119, 117, 118]"
-Reschenthaler,Reschenthaler,PA,R,"[119, 117, 118]"
-Rogers,Rogers,AL,R,"[119, 117, 118]"
-Rogers,Rogers,KY,R,"[119, 117, 118]"
-Rose,Rose,TN,R,"[119, 117, 118]"
-Rouzer,Rouzer,NC,R,"[119, 117, 118]"
-Roy,Roy,TX,R,"[119, 117, 118]"
-Rulli,Rulli,OH,R,"[119, 118]"
-Rutherford,Rutherford,FL,R,"[119, 117, 118]"
-Salazar,Salazar,FL,R,"[119, 117, 118]"
-Scalise,Scalise,LA,R,"[119, 117, 118]"
-Schmidt,Schmidt,KS,R,[119]
-Schweikert,Schweikert,AZ,R,"[119, 117, 118]"
-Scott,Scott,GA,R,"[119, 117, 118]"
-Self,Self,TX,R,"[119, 118]"
-Sessions,Sessions,TX,R,"[119, 117, 118]"
-Shreve,Shreve,IN,R,[119]
-Simpson,Simpson,ID,R,"[119, 117, 118]"
-Smith,Smith,MO,R,"[119, 117, 118]"
-Smith,Smith,NE,R,"[119, 117, 118]"
-Smith,Smith,NJ,R,"[119, 117, 118]"
-Smucker,Smucker,PA,R,"[119, 117, 118]"
-Spartz,Spartz,IN,R,"[119, 117, 118]"
-Stauber,Stauber,MN,R,"[119, 117, 118]"
-Stefanik,Stefanik,NY,R,"[119, 117, 118]"
-Steil,Steil,WI,R,"[119, 117, 118]"
-Steube,Steube,FL,R,"[119, 117, 118]"
-Strong,Strong,AL,R,"[119, 118]"
-Stutzman,Stutzman,IN,R,[119]
-Taylor,Taylor,OH,R,[119]
-Tenney,Tenney,NY,R,"[119, 117, 118]"
-Thompson,Thompson,PA,R,"[119, 117, 118]"
-Tiffany,Tiffany,WI,R,"[119, 117, 118]"
-Timmons,Timmons,SC,R,"[119, 117, 118]"
-Turner,Turner,OH,R,"[119, 117, 118]"
-Valadao,Valadao,CA,R,"[119, 117, 118]"
-Van Drew,Van Drew,NJ,R,"[119, 117, 118]"
-Van Duyne,Van Duyne,TX,R,"[119, 117, 118]"
-Van Orden,Van Orden,WI,R,"[119, 118]"
-Wagner,Wagner,MO,R,"[119, 117, 118]"
-Walberg,Walberg,MI,R,"[119, 117, 118]"
-Weber,Weber,TX,R,"[119, 117, 118]"
-Webster,Webster,FL,R,"[119, 117, 118]"
-Westerman,Westerman,AR,R,"[119, 117, 118]"
-Wied,Wied,WI,R,"[119, 118]"
-Wittman,Wittman,VA,R,"[119, 117, 118]"
-Womack,Womack,AR,R,"[119, 117, 118]"
-Yakym,Yakym,IN,R,"[119, 117, 118]"
-Zinke,Zinke,MT,R,"[119, 118]"
-Adams,Adams,NC,D,"[119, 117, 118]"
-Aguilar,Aguilar,CA,D,"[119, 117, 118]"
-Amo,Amo,RI,D,"[119, 118]"
-Ansari,Ansari,AZ,D,[119]
-Auchincloss,Auchincloss,MA,D,"[119, 117, 118]"
-Balint,Balint,VT,D,"[119, 118]"
-Barragán,Barragán,CA,D,"[119, 117, 118]"
-Beatty,Beatty,OH,D,"[119, 117, 118]"
-Bell,Bell,MO,D,[119]
-Bera,Bera,CA,D,"[119, 117, 118]"
-Beyer,Beyer,VA,D,"[119, 117, 118]"
-Bishop,Bishop,GA,D,"[119, 117, 118]"
-Bonamici,Bonamici,OR,D,"[119, 117, 118]"
-Boyle,Boyle,PA,D,"[119, 117, 118]"
-Brown,Brown,OH,D,"[119, 117, 118]"
-Brownley,Brownley,CA,D,"[119, 117, 118]"
-Budzinski,Budzinski,IL,D,"[119, 118]"
-Bynum,Bynum,OR,D,[119]
-Carbajal,Carbajal,CA,D,"[119, 117, 118]"
-Carson,Carson,IN,D,"[119, 117, 118]"
-Carter,Carter,LA,D,"[119, 117, 118]"
-Casar,Casar,TX,D,"[119, 118]"
-Case,Case,HI,D,"[119, 117, 118]"
-Casten,Casten,IL,D,"[119, 117, 118]"
-Castor,Castor,FL,D,"[119, 117, 118]"
-Castro,Castro,TX,D,"[119, 117, 118]"
-Cherfilus-McCormick,Cherfilus-McCormick,FL,D,"[119, 117, 118]"
-Chu,Chu,CA,D,"[119, 117, 118]"
-Cisneros,Cisneros,CA,D,[119]
-Clark,Clark,MA,D,"[119, 117, 118]"
-Clarke,Clarke,NY,D,"[119, 117, 118]"
-Cleaver,Cleaver,MO,D,"[119, 117, 118]"
-Clyburn,Clyburn,SC,D,"[119, 117, 118]"
-Cohen,Cohen,TN,D,"[119, 117, 118]"
-Conaway,Conaway,NJ,D,[119]
-Connolly,Connolly,VA,D,"[119, 117, 118]"
-Costa,Costa,CA,D,"[119, 117, 118]"
-Courtney,Courtney,CT,D,"[119, 117, 118]"
-Craig,Craig,MN,D,"[119, 117, 118]"
-Crockett,Crockett,TX,D,"[119, 118]"
-Crow,Crow,CO,D,"[119, 117, 118]"
-Davids,Davids,KS,D,"[119, 117, 118]"
-Davis,Davis,IL,D,"[119, 117, 118]"
-Davis,Davis,NC,D,"[119, 118]"
-Dean,Dean,PA,D,"[119, 117, 118]"
-DeGette,DeGette,CO,D,"[119, 117, 118]"
-DeLauro,DeLauro,CT,D,"[119, 117, 118]"
-DelBene,DelBene,WA,D,"[119, 117, 118]"
-Deluzio,Deluzio,PA,D,"[119, 118]"
-DeSaulnier,DeSaulnier,CA,D,"[119, 117, 118]"
-Dexter,Dexter,OR,D,[119]
-Dingell,Dingell,MI,D,"[119, 117, 118]"
-Doggett,Doggett,TX,D,"[119, 117, 118]"
-Elfreth,Elfreth,MD,D,[119]
-Escobar,Escobar,TX,D,"[119, 117, 118]"
-Espaillat,Espaillat,NY,D,"[119, 117, 118]"
-Evans,Evans,PA,D,"[119, 117, 118]"
-Fields,Fields,LA,D,[119]
-Figures,Figures,AL,D,[119]
-Fletcher,Fletcher,TX,D,"[119, 117, 118]"
-Foster,Foster,IL,D,"[119, 117, 118]"
-Foushee,Foushee,NC,D,"[119, 118]"
-Frankel,Frankel,FL,D,"[119, 117, 118]"
-Friedman,Friedman,CA,D,[119]
-Frost,Frost,FL,D,"[119, 118]"
-Garcia,Garcia,CA,D,"[119, 117, 118]"
-García,García,IL,D,"[119, 117, 118]"
-Garcia,Garcia,TX,D,"[119, 117, 118]"
-Gillen,Gillen,NY,D,[119]
-Golden,Golden,ME,D,"[119, 117, 118]"
-Goldman,Goldman,NY,D,"[119, 118]"
-Gomez,Gomez,CA,D,"[119, 117, 118]"
-Goodlander,Goodlander,NH,D,[119]
-Gottheimer,Gottheimer,NJ,D,"[119, 117, 118]"
-Gray,Gray,CA,D,[119]
-Green,Green,TX,D,"[119, 117, 118]"
-Harder,Harder,CA,D,"[119, 117, 118]"
-Hayes,Hayes,CT,D,"[119, 117, 118]"
-Himes,Himes,CT,D,"[119, 117, 118]"
-Horsford,Horsford,NV,D,"[119, 117, 118]"
-Houlahan,Houlahan,PA,D,"[119, 117, 118]"
-Hoyer,Hoyer,MD,D,"[119, 117, 118]"
-Hoyle,Hoyle,OR,D,"[119, 118]"
-Huffman,Huffman,CA,D,"[119, 117, 118]"
-Ivey,Ivey,MD,D,"[119, 118]"
-Jackson,Jackson,IL,D,"[119, 118]"
-Jacobs,Jacobs,CA,D,"[119, 117, 118]"
-Jeffries,Jeffries,NY,D,"[119, 117, 118]"
-Johnson,Johnson,GA,D,"[119, 117, 118]"
-Johnson,Johnson,TX,D,"[119, 117]"
-Kamlager-Dove,Kamlager-Dove,CA,D,"[119, 118]"
-Kaptur,Kaptur,OH,D,"[119, 117, 118]"
-Keating,Keating,MA,D,"[119, 117, 118]"
-Kelly,Kelly,IL,D,"[119, 117, 118]"
-Kennedy,Kennedy,NY,D,"[119, 118]"
-Khanna,Khanna,CA,D,"[119, 117, 118]"
-Krishnamoorthi,Krishnamoorthi,IL,D,"[119, 117, 118]"
-Landsman,Landsman,OH,D,"[119, 118]"
-Larsen,Larsen,WA,D,"[119, 117, 118]"
-Larson,Larson,CT,D,"[119, 117, 118]"
-Latimer,Latimer,NY,D,[119]
-Lee,Lee,NV,D,"[119, 117, 118]"
-Lee,Lee,PA,D,"[119, 118]"
-Leger Fernandez,Leger Fernandez,NM,D,"[119, 117, 118]"
-Levin,Levin,CA,D,"[119, 117, 118]"
-Liccardo,Liccardo,CA,D,[119]
-Lieu,Lieu,CA,D,"[119, 117, 118]"
-Lofgren,Lofgren,CA,D,"[119, 117, 118]"
-Lynch,Lynch,MA,D,"[119, 117, 118]"
-Magaziner,Magaziner,RI,D,"[119, 118]"
-Mannion,Mannion,NY,D,[119]
-Matsui,Matsui,CA,D,"[119, 117, 118]"
-McBath,McBath,GA,D,"[119, 117, 118]"
-McBride,McBride,DE,D,[119]
-McClain Delaney,McClain Delaney,MD,D,[119]
-McClellan,McClellan,VA,D,"[119, 118]"
-McCollum,McCollum,MN,D,"[119, 117, 118]"
-McDonald Rivet,McDonald Rivet,MI,D,[119]
-McGarvey,McGarvey,KY,D,"[119, 118]"
-McGovern,McGovern,MA,D,"[119, 117, 118]"
-McIver,McIver,NJ,D,"[119, 118]"
-Meeks,Meeks,NY,D,"[119, 117, 118]"
-Menendez,Menendez,NJ,D,"[119, 118]"
-Meng,Meng,NY,D,"[119, 117, 118]"
-Mfume,Mfume,MD,D,"[119, 117, 118]"
-Min,Min,CA,D,[119]
-Moore,Moore,WI,D,"[119, 117, 118]"
-Morelle,Morelle,NY,D,"[119, 117, 118]"
-Morrison,Morrison,MN,D,[119]
-Moskowitz,Moskowitz,FL,D,"[119, 118]"
-Moulton,Moulton,MA,D,"[119, 117, 118]"
-Mullin,Mullin,CA,D,"[119, 118]"
-Nadler,Nadler,NY,D,"[119, 117, 118]"
-Neal,Neal,MA,D,"[119, 117, 118]"
-Neguse,Neguse,CO,D,"[119, 117, 118]"
-Norcross,Norcross,NJ,D,"[119, 117, 118]"
-Ocasio-Cortez,Ocasio-Cortez,NY,D,"[119, 117, 118]"
-Olszewski,Olszewski,MD,D,[119]
-Omar,Omar,MN,D,"[119, 117, 118]"
-Pallone,Pallone,NJ,D,"[119, 117, 118]"
-Panetta,Panetta,CA,D,"[119, 117, 118]"
-Pappas,Pappas,NH,D,"[119, 117, 118]"
-Perez,Perez,WA,D,"[119, 118]"
-Peters,Peters,CA,D,"[119, 117, 118]"
-Pingree,Pingree,ME,D,"[119, 117, 118]"
-Pocan,Pocan,WI,D,"[119, 117, 118]"
-Pou,Pou,NJ,D,[119]
-Pressley,Pressley,MA,D,"[119, 117, 118]"
-Quigley,Quigley,IL,D,"[119, 117, 118]"
-Ramirez,Ramirez,IL,D,"[119, 118]"
-Randall,Randall,WA,D,[119]
-Raskin,Raskin,MD,D,"[119, 117, 118]"
-Rivas,Rivas,CA,D,[119]
-Ross,Ross,NC,D,"[119, 117, 118]"
-Ruiz,Ruiz,CA,D,"[119, 117, 118]"
-Ryan,Ryan,NY,D,"[119, 117, 118]"
-Salinas,Salinas,OR,D,"[119, 118]"
-Sánchez,Sánchez,CA,D,"[119, 117, 118]"
-Scanlon,Scanlon,PA,D,"[119, 117, 118]"
-Schakowsky,Schakowsky,IL,D,"[119, 117, 118]"
-Schneider,Schneider,IL,D,"[119, 117, 118]"
-Scholten,Scholten,MI,D,"[119, 118]"
-Schrier,Schrier,WA,D,"[119, 117, 118]"
-Scott,Scott,VA,D,"[119, 117, 118]"
-Sewell,Sewell,AL,D,"[119, 117, 118]"
-Sherman,Sherman,CA,D,"[119, 117, 118]"
-Sherrill,Sherrill,NJ,D,"[119, 117, 118]"
-Simon,Simon,CA,D,[119]
-Smith,Smith,WA,D,"[119, 117, 118]"
-Sorensen,Sorensen,IL,D,"[119, 118]"
-Soto,Soto,FL,D,"[119, 117, 118]"
-Stansbury,Stansbury,NM,D,"[119, 117, 118]"
-Stanton,Stanton,AZ,D,"[119, 117, 118]"
-Stevens,Stevens,MI,D,"[119, 117, 118]"
-Strickland,Strickland,WA,D,"[119, 117, 118]"
-Subramanyam,Subramanyam,VA,D,[119]
-Suozzi,Suozzi,NY,D,"[119, 117, 118]"
-Swalwell,Swalwell,CA,D,"[119, 117, 118]"
-Sykes,Sykes,OH,D,"[119, 118]"
-Takano,Takano,CA,D,"[119, 117, 118]"
-Thanedar,Thanedar,MI,D,"[119, 118]"
-Thompson,Thompson,CA,D,"[119, 117, 118]"
-Thompson,Thompson,MS,D,"[119, 117, 118]"
-Titus,Titus,NV,D,"[119, 117, 118]"
-Tlaib,Tlaib,MI,D,"[119, 117, 118]"
-Tokuda,Tokuda,HI,D,"[119, 118]"
-Tonko,Tonko,NY,D,"[119, 117, 118]"
-Torres,Torres,CA,D,"[119, 117, 118]"
-Torres,Torres,NY,D,"[119, 117, 118]"
-Trahan,Trahan,MA,D,"[119, 117, 118]"
-Tran,Tran,CA,D,[119]
-Turner,Turner,TX,D,[119]
-Underwood,Underwood,IL,D,"[119, 117, 118]"
-Vargas,Vargas,CA,D,"[119, 117, 118]"
-Vasquez,Vasquez,NM,D,"[119, 118]"
-Veasey,Veasey,TX,D,"[119, 117, 118]"
-Velázquez,Velázquez,NY,D,"[119, 117, 118]"
-Vindman,Vindman,VA,D,[119]
-Wasserman Schultz,Wasserman Schultz,FL,D,"[119, 117, 118]"
-Waters,Waters,CA,D,"[119, 117, 118]"
-Watson Coleman,Watson Coleman,NJ,D,"[119, 117, 118]"
-Williams,Williams,GA,D,"[119, 117, 118]"
-Wilson,Wilson,FL,D,"[119, 117, 118]"
-Gonzalez,Gonzalez,TX,D,"[119, 117, 118]"
-Riley,Riley,NY,D,[119]
-Williams,Williams,TX,R,"[119, 117, 118]"
-Wilson,Wilson,SC,R,"[119, 117, 118]"
-Correa,Correa,CA,D,"[119, 117, 118]"
-Garamendi,Garamendi,CA,D,"[119, 117, 118]"
-Jayapal,Jayapal,WA,D,"[119, 117, 118]"
-Mrvan,Mrvan,IN,D,"[119, 117, 118]"
-Pelosi,Pelosi,CA,D,"[119, 117, 118]"
-Pettersen,Pettersen,CO,D,"[119, 118]"
-Waltz,Waltz,FL,R,"[119, 117, 118]"
-Whitesides,Whitesides,CA,D,[119]
-Banks (R-IN),Banks,IN,R,[119]
-Barrasso (R-WY),Barrasso,WY,R,"[119, 117, 118]"
-Blackburn (R-TN),Blackburn,TN,R,"[119, 117, 118]"
-Boozman (R-AR),Boozman,AR,R,"[119, 117, 118]"
-Britt (R-AL),Britt,AL,R,"[119, 118]"
-Budd (R-NC),Budd,NC,R,"[119, 118]"
-Capito (R-WV),Capito,WV,R,"[119, 117, 118]"
-Cassidy (R-LA),Cassidy,LA,R,"[119, 117, 118]"
-Collins (R-ME),Collins,ME,R,"[119, 117, 118]"
-Cornyn (R-TX),Cornyn,TX,R,"[119, 117, 118]"
-Cortez Masto (D-NV),Cortez Masto,NV,D,"[119, 117, 118]"
-Cotton (R-AR),Cotton,AR,R,"[119, 117, 118]"
-Cramer (R-ND),Cramer,ND,R,"[119, 117, 118]"
-Crapo (R-ID),Crapo,ID,R,"[119, 117, 118]"
-Cruz (R-TX),Cruz,TX,R,"[119, 117, 118]"
-Curtis (R-UT),Curtis,UT,R,[119]
-Daines (R-MT),Daines,MT,R,"[119, 117, 118]"
-Ernst (R-IA),Ernst,IA,R,"[119, 117, 118]"
-Fetterman (D-PA),Fetterman,PA,D,"[119, 118]"
-Fischer (R-NE),Fischer,NE,R,"[119, 117, 118]"
-Gallego (D-AZ),Gallego,AZ,D,[119]
-Graham (R-SC),Graham,SC,R,"[119, 117, 118]"
-Grassley (R-IA),Grassley,IA,R,"[119, 117, 118]"
-Hagerty (R-TN),Hagerty,TN,R,"[119, 117, 118]"
-Hassan (D-NH),Hassan,NH,D,"[119, 117, 118]"
-Hawley (R-MO),Hawley,MO,R,"[119, 117, 118]"
-Hoeven (R-ND),Hoeven,ND,R,"[119, 117, 118]"
-Hyde-Smith (R-MS),Hyde-Smith,MS,R,"[119, 117, 118]"
-Johnson (R-WI),Johnson,WI,R,"[119, 117, 118]"
-Justice (R-WV),Justice,WV,R,[119]
-Kelly (D-AZ),Kelly,AZ,D,"[119, 117, 118]"
-Kennedy (R-LA),Kennedy,LA,R,"[119, 117, 118]"
-Lankford (R-OK),Lankford,OK,R,"[119, 117, 118]"
-Lee (R-UT),Lee,UT,R,"[119, 117, 118]"
-Lummis (R-WY),Lummis,WY,R,"[119, 117, 118]"
-Marshall (R-KS),Marshall,KS,R,"[119, 117, 118]"
-McConnell (R-KY),McConnell,KY,R,"[119, 117, 118]"
-McCormick (R-PA),McCormick,PA,R,[119]
-Moran (R-KS),Moran,KS,R,"[119, 117, 118]"
-Moreno (R-OH),Moreno,OH,R,[119]
-Mullin (R-OK),Mullin,OK,R,"[119, 118]"
-Murkowski (R-AK),Murkowski,AK,R,"[119, 117, 118]"
-Ossoff (D-GA),Ossoff,GA,D,"[119, 117, 118]"
-Paul (R-KY),Paul,KY,R,"[119, 117, 118]"
-Peters (D-MI),Peters,MI,D,"[119, 117, 118]"
-Ricketts (R-NE),Ricketts,NE,R,"[119, 118]"
-Risch (R-ID),Risch,ID,R,"[119, 117, 118]"
-Rosen (D-NV),Rosen,NV,D,"[119, 117, 118]"
-Rounds (R-SD),Rounds,SD,R,"[119, 117, 118]"
-Rubio (R-FL),Rubio,FL,R,"[119, 117, 118]"
-Schmitt (R-MO),Schmitt,MO,R,"[119, 118]"
-Scott (R-FL),Scott,FL,R,"[119, 117, 118]"
-Scott (R-SC),Scott,SC,R,"[119, 117, 118]"
-Shaheen (D-NH),Shaheen,NH,D,"[119, 117, 118]"
-Sheehy (R-MT),Sheehy,MT,R,[119]
-Slotkin (D-MI),Slotkin,MI,D,[119]
-Sullivan (R-AK),Sullivan,AK,R,"[119, 117, 118]"
-Thune (R-SD),Thune,SD,R,"[119, 117, 118]"
-Tillis (R-NC),Tillis,NC,R,"[119, 117, 118]"
-Tuberville (R-AL),Tuberville,AL,R,"[119, 117, 118]"
-Warner (D-VA),Warner,VA,D,"[119, 117, 118]"
-Warnock (D-GA),Warnock,GA,D,"[119, 117, 118]"
-Wicker (R-MS),Wicker,MS,R,"[119, 117, 118]"
-Young (R-IN),Young,IN,R,"[119, 117, 118]"
-Alsobrooks (D-MD),Alsobrooks,MD,D,[119]
-Baldwin (D-WI),Baldwin,WI,D,"[119, 117, 118]"
-Bennet (D-CO),Bennet,CO,D,"[119, 117, 118]"
-Blumenthal (D-CT),Blumenthal,CT,D,"[119, 117, 118]"
-Blunt Rochester (D-DE),Blunt Rochester,DE,D,[119]
-Booker (D-NJ),Booker,NJ,D,"[119, 117, 118]"
-Cantwell (D-WA),Cantwell,WA,D,"[119, 117, 118]"
-Coons (D-DE),Coons,DE,D,"[119, 117, 118]"
-Duckworth (D-IL),Duckworth,IL,D,"[119, 117, 118]"
-Durbin (D-IL),Durbin,IL,D,"[119, 117, 118]"
-Gillibrand (D-NY),Gillibrand,NY,D,"[119, 117, 118]"
-Heinrich (D-NM),Heinrich,NM,D,"[119, 117, 118]"
-Hickenlooper (D-CO),Hickenlooper,CO,D,"[119, 117, 118]"
-Hirono (D-HI),Hirono,HI,D,"[119, 117, 118]"
-Kaine (D-VA),Kaine,VA,D,"[119, 117, 118]"
-Kim (D-NJ),Kim,NJ,D,"[119, 118]"
-King (I-ME),King,ME,I,"[119, 117, 118]"
-Klobuchar (D-MN),Klobuchar,MN,D,"[119, 117, 118]"
-Lujan (D-NM),Lujan,NM,D,"[119, 117, 118]"
-Markey (D-MA),Markey,MA,D,"[119, 117, 118]"
-Merkley (D-OR),Merkley,OR,D,"[119, 117, 118]"
-Murphy (D-CT),Murphy,CT,D,"[119, 117, 118]"
-Murray (D-WA),Murray,WA,D,"[119, 117, 118]"
-Padilla (D-CA),Padilla,CA,D,"[119, 117, 118]"
-Reed (D-RI),Reed,RI,D,"[119, 117, 118]"
-Sanders (I-VT),Sanders,VT,I,"[119, 117, 118]"
-Schatz (D-HI),Schatz,HI,D,"[119, 117, 118]"
-Schiff (D-CA),Schiff,CA,D,"[119, 118]"
-Schumer (D-NY),Schumer,NY,D,"[119, 117, 118]"
-Smith (D-MN),Smith,MN,D,"[119, 117, 118]"
-Van Hollen (D-MD),Van Hollen,MD,D,"[119, 117, 118]"
-Warren (D-MA),Warren,MA,D,"[119, 117, 118]"
-Welch (D-VT),Welch,VT,D,"[119, 118]"
-Whitehouse (D-RI),Whitehouse,RI,D,"[119, 117, 118]"
-Wyden (D-OR),Wyden,OR,D,"[119, 117, 118]"
-Vance (R-OH),Vance,OH,R,"[119, 118]"
-Husted (R-OH),Husted,OH,R,[119]
-Moody (R-FL),Moody,FL,R,[119]
-Allred,Allred,TX,D,"[117, 118]"
-Axne,Axne,IA,D,[117]
-Bass,Bass,CA,D,[117]
-Blumenauer,Blumenauer,OR,D,"[117, 118]"
-Blunt Rochester,Blunt Rochester,DE,D,"[117, 118]"
-Bourdeaux,Bourdeaux,GA,D,[117]
-Bowman,Bowman,NY,D,"[117, 118]"
-Brown,Brown,MD,D,[117]
-Bush,Bush,MO,D,"[117, 118]"
-Bustos,Bustos,IL,D,[117]
-Butterfield,Butterfield,NC,D,[117]
-Cárdenas,Cárdenas,CA,D,"[117, 118]"
-Cartwright,Cartwright,PA,D,"[117, 118]"
-Cicilline,Cicilline,RI,D,"[117, 118]"
-Cooper,Cooper,TN,D,[117]
-Crist,Crist,FL,D,[117]
-DeFazio,DeFazio,OR,D,[117]
-Delgado,Delgado,NY,D,[117]
-Demings,Demings,FL,D,[117]
-Deutch,Deutch,FL,D,[117]
-Doyle,Doyle,PA,D,[117]
-Eshoo,Eshoo,CA,D,"[117, 118]"
-Fudge,Fudge,OH,D,[117]
-Gallego,Gallego,AZ,D,"[117, 118]"
-Grijalva,Grijalva,AZ,D,"[117, 118]"
-Haaland,Haaland,NM,D,[117]
-Hastings,Hastings,FL,D,[117]
-Higgins,Higgins,NY,D,"[117, 118]"
-Jackson Lee,Jackson Lee,TX,D,"[117, 118]"
-Jones,Jones,NY,D,[117]
-Kahele,Kahele,HI,D,[117]
-Kildee,Kildee,MI,D,"[117, 118]"
-Kilmer,Kilmer,WA,D,"[117, 118]"
-Kim,Kim,NJ,D,"[117, 118]"
-Kind,Kind,WI,D,[117]
-Kirkpatrick,Kirkpatrick,AZ,D,[117]
-Kuster,Kuster,NH,D,"[117, 118]"
-Lamb,Lamb,PA,D,[117]
-Langevin,Langevin,RI,D,[117]
-Lawrence,Lawrence,MI,D,[117]
-Lawson,Lawson,FL,D,[117]
-Lee,Lee,CA,D,"[117, 118]"
-Levin,Levin,MI,D,[117]
-Lowenthal,Lowenthal,CA,D,[117]
-Luria,Luria,VA,D,[117]
-Malinowski,Malinowski,NJ,D,[117]
-Maloney,Maloney,NY,D,[117]
-Manning,Manning,NC,D,"[117, 118]"
-McEachin,McEachin,VA,D,[117]
-McNerney,McNerney,CA,D,[117]
-Murphy,Murphy,FL,D,[117]
-Napolitano,Napolitano,CA,D,"[117, 118]"
-Newman,Newman,IL,D,[117]
-O'Halleran,O'Halleran,AZ,D,[117]
-Pascrell,Pascrell,NJ,D,"[117, 118]"
-Payne,Payne,NJ,D,"[117, 118]"
-Perlmutter,Perlmutter,CO,D,[117]
-Phillips,Phillips,MN,D,"[117, 118]"
-Porter,Porter,CA,D,"[117, 118]"
-Price,Price,NC,D,[117]
-Rice,Rice,NY,D,[117]
-Roybal-Allard,Roybal-Allard,CA,D,[117]
-Ruppersberger,Ruppersberger,MD,D,"[117, 118]"
-Rush,Rush,IL,D,[117]
-Ryan,Ryan,OH,D,[117]
-Sarbanes,Sarbanes,MD,D,"[117, 118]"
-Schiff,Schiff,CA,D,"[117, 118]"
-Schrader,Schrader,OR,D,[117]
-Sires,Sires,NJ,D,[117]
-Slotkin,Slotkin,MI,D,"[117, 118]"
-Spanberger,Spanberger,VA,D,"[117, 118]"
-Speier,Speier,CA,D,[117]
-Trone,Trone,MD,D,"[117, 118]"
-Vela,Vela,TX,D,[117]
-Welch,Welch,VT,D,[117]
-Wexton,Wexton,VA,D,"[117, 118]"
-Wild,Wild,PA,D,"[117, 118]"
-Yarmuth,Yarmuth,KY,D,[117]
-Armstrong,Armstrong,ND,R,"[117, 118]"
-Banks,Banks,IN,R,"[117, 118]"
-Bishop,Bishop,NC,R,"[117, 118]"
-Brady,Brady,TX,R,[117]
-Brooks,Brooks,AL,R,[117]
-Buck,Buck,CO,R,"[117, 118]"
-Bucshon,Bucshon,IN,R,"[117, 118]"
-Budd,Budd,NC,R,[117]
-Burgess,Burgess,TX,R,"[117, 118]"
-Carl,Carl,AL,R,"[117, 118]"
-Cawthorn,Cawthorn,NC,R,[117]
-Chabot,Chabot,OH,R,[117]
-Cheney,Cheney,WY,R,[117]
-Curtis,Curtis,UT,R,"[117, 118]"
-Duncan,Duncan,SC,R,"[117, 118]"
-Ferguson,Ferguson,GA,R,"[117, 118]"
-Fortenberry,Fortenberry,NE,R,[117]
-Gaetz,Gaetz,FL,R,"[117, 118]"
-Gallagher,Gallagher,WI,R,"[117, 118]"
-Gibbs,Gibbs,OH,R,[117]
-Gohmert,Gohmert,TX,R,[117]
-Gonzalez,Gonzalez,OH,R,[117]
-Good,Good,VA,R,"[117, 118]"
-Granger,Granger,TX,R,"[117, 118]"
-Graves,Graves,LA,R,"[117, 118]"
-Hagedorn,Hagedorn,MN,R,[117]
-Hartzler,Hartzler,MO,R,[117]
-Herrell,Herrell,NM,R,[117]
-Herrera Beutler,Herrera Beutler,WA,R,[117]
-Hice,Hice,GA,R,[117]
-Hollingsworth,Hollingsworth,IN,R,[117]
-Jacobs,Jacobs,NY,R,[117]
-Johnson,Johnson,OH,R,"[117, 118]"
-Katko,Katko,NY,R,[117]
-Keller,Keller,PA,R,[117]
-Kinzinger,Kinzinger,IL,R,[117]
-Lamborn,Lamborn,CO,R,"[117, 118]"
-LaTurner,LaTurner,KS,R,"[117, 118]"
-Lesko,Lesko,AZ,R,"[117, 118]"
-Long,Long,MO,R,[117]
-Luetkemeyer,Luetkemeyer,MO,R,"[117, 118]"
-McCarthy,McCarthy,CA,R,"[117, 118]"
-McHenry,McHenry,NC,R,"[117, 118]"
-McKinley,McKinley,WV,R,[117]
-Meijer,Meijer,MI,R,[117]
-Mooney,Mooney,WV,R,"[117, 118]"
-Mullin,Mullin,OK,R,[117]
-Nunes,Nunes,CA,R,[117]
-Palazzo,Palazzo,MS,R,[117]
-Pence,Pence,IN,R,"[117, 118]"
-Posey,Posey,FL,R,"[117, 118]"
-Reed,Reed,NY,R,[117]
-Rice,Rice,SC,R,[117]
-Rodgers,Rodgers,WA,R,"[117, 118]"
-Rosendale,Rosendale,MT,R,"[117, 118]"
-Steel,Steel,CA,R,"[117, 118]"
-Stewart,Stewart,UT,R,"[117, 118]"
-Stivers,Stivers,OH,R,[117]
-Taylor,Taylor,TX,R,[117]
-Upton,Upton,MI,R,[117]
-Walorski,Walorski,IN,R,[117]
-Wenstrup,Wenstrup,OH,R,"[117, 118]"
-Young,Young,AK,R,[117]
-Zeldin,Zeldin,NY,R,[117]
-Brown (D-OH),Brown,OH,D,"[117, 118]"
-Cardin (D-MD),Cardin,MD,D,"[117, 118]"
-Carper (D-DE),Carper,DE,D,"[117, 118]"
-Casey (D-PA),Casey,PA,D,"[117, 118]"
-Feinstein (D-CA),Feinstein,CA,D,"[117, 118]"
-Leahy (D-VT),Leahy,VT,D,[117]
-Manchin (D-WV),Manchin,WV,D,"[117, 118]"
-Menendez (D-NJ),Menendez,NJ,D,"[117, 118]"
-Sinema (D-AZ),Sinema,AZ,D,[117]
-Stabenow (D-MI),Stabenow,MI,D,"[117, 118]"
-Tester (D-MT),Tester,MT,D,"[117, 118]"
-Blunt (R-MO),Blunt,MO,R,[117]
-Braun (R-IN),Braun,IN,R,"[117, 118]"
-Burr (R-NC),Burr,NC,R,[117]
-Inhofe (R-OK),Inhofe,OK,R,[117]
-Portman (R-OH),Portman,OH,R,[117]
-Romney (R-UT),Romney,UT,R,"[117, 118]"
-Sasse (R-NE),Sasse,NE,R,[117]
-Shelby (R-AL),Shelby,AL,R,[117]
-Toomey (R-PA),Toomey,PA,R,[117]
-Wright,Wright,TX,R,[117]
-Conway,Conway,CA,R,[117]
-Flores,Flores,TX,R,[117]
-Peltola,Peltola,AK,D,"[117, 118]"
-Sempolinski,Sempolinski,NY,R,[117]
-Chavez-DeRemer,Chavez-DeRemer,OR,R,[118]
-D'Esposito,D'Esposito,NY,R,[118]
-Duarte,Duarte,CA,R,[118]
-Molinaro,Molinaro,NY,R,[118]
-Santos,Santos,NY,R,[118]
-Williams,Williams,NY,R,[118]
-Caraveo,Caraveo,CO,D,[118]
-Jackson,Jackson,NC,D,[118]
-Nickel,Nickel,NC,D,[118]
-Sinema (I-AZ),Sinema,AZ,I,[118]
-Manchin (I-WV),Manchin,WV,I,[118]
-Lopez,Lopez,CO,R,[118]
-Lee Carter,Lee Carter,TX,D,[118]
-Butler (D-CA),Butler,CA,D,[118]
-Helmy (D-NJ),Helmy,NJ,D,[118]
+LastName,Name,State,District,Party,Term,ImageUrl
+Moody,"Moody, Ashley",Florida,,Republican,Senate: 2025,
+Husted,"Husted, Jon",Ohio,,Republican,Senate: 2025,
+Goodlander,"Goodlander, Maggie",New Hampshire,2.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/678ff62d66bf616cf1a7ce13_200.jpg
+Waltz,"Waltz, Michael",Florida,6.0,Republican,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/w000823_200.jpg
+Randall,"Randall, Emily",Washington,6.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67745dcf0b34857ecc909173_200.jpg
+Moore,"Moore, Riley",West Virginia,2.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677449fd0b34857ecc909131_200.jpg
+Baumgartner,"Baumgartner, Michael",Washington,5.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/6774212e0b34857ecc90903a_200.jpg
+Wied,"Wied, Tony",Wisconsin,8.0,Republican,House of Representatives: 2024,https://www.congress.gov/img/member/6734b6724c72e343a6aff9e6_200.jpg
+Hageman,"Hageman, Harriet M.",Wyoming,0.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/h001096_200.jpg
+Balint,"Balint, Becca",Vermont,0.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/b001318_200.jpg
+Strickland,"Strickland, Marilyn",Washington,10.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/s001159_200.jpg
+Fitzgerald,"Fitzgerald, Scott",Wisconsin,5.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/f000471_200.jpg
+Grothman,"Grothman, Glenn",Wisconsin,6.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/116_rp_wi_6_grothman_glenn_200.jpg
+Newhouse,"Newhouse, Dan",Washington,4.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/116_rp_wa_4_newhouse_dan_200.jpg
+DelBene,"DelBene, Suzan K.",Washington,1.0,Democratic,House of Representatives: 2012,https://www.congress.gov/img/member/d000617_200.jpg
+Vindman,"Vindman, Eugene",Virginia,7.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/6774617a0b34857ecc9091b5_200.jpg
+Turner,"Turner, Sylvester",Texas,18.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67745fdc0b34857ecc90919d_200.jpg
+Subramanyam,"Subramanyam, Suhas",Virginia,10.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67745f4e0b34857ecc909191_200.jpg
+McGuire,"McGuire, John",Virginia,5.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67744ba20b34857ecc909149_200.jpg
+Kennedy,"Kennedy, Mike",Utah,3.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742e7c0b34857ecc9090f5_200.jpg
+Johnson,"Johnson, Julie",Texas,32.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67742df60b34857ecc9090e9_200.jpg
+Gill,"Gill, Brandon",Texas,26.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677428ac0b34857ecc9090b3_200.jpg
+Goldman,"Goldman, Craig",Texas,12.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/6774277d0b34857ecc9090a7_200.jpg
+Maloy,"Maloy, Celeste",Utah,2.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/m001228_200.jpg
+McClellan,"McClellan, Jennifer L.",Virginia,4.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/m001227_200.jpg
+Self,"Self, Keith",Texas,3.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/s001224_200.jpg
+Moran,"Moran, Nathaniel",Texas,1.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/m001224_200.jpg
+Luttrell,"Luttrell, Morgan",Texas,8.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/l000603_200.jpg
+Kiggans,"Kiggans, Jennifer A.",Virginia,2.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/66b0ce45b0288a917d98f619_200.jpg
+Casar,"Casar, Greg",Texas,35.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/c001131_200.jpg
+Pfluger,"Pfluger, August",Texas,11.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/p000048_200.jpg
+Jackson,"Jackson, Ronny",Texas,13.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/j000304_200.jpg
+Gonzales,"Gonzales, Tony",Texas,23.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/g000594_200.jpg
+Fletcher,"Fletcher, Lizzie",Texas,7.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/67813f931f9ad6ea6fb1eb6f_200.jpg
+Cloud,"Cloud, Michael",Texas,27.0,Republican,House of Representatives: 2018,https://www.congress.gov/img/member/115_rp_tx_27_cloud_michael_200.jpg
+Arrington,"Arrington, Jodey C.",Texas,19.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_tx_19_arrington_jodey_200.jpg
+Gonzalez,"Gonzalez, Vicente",Texas,34.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_tx_15_gonzalez_vicente_200.jpg
+Beyer,"Beyer, Donald S.",Virginia,8.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/b001292_200.jpg
+Veasey,"Veasey, Marc A.",Texas,33.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/v000131_200.jpg
+Griffith,"Griffith, H. Morgan",Virginia,9.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/g000568_200.jpg
+Cuellar,"Cuellar, Henry",Texas,28.0,Democratic,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_tx_28_cuellar_henry_200.jpg
+Taylor,"Taylor, David",Ohio,2.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677460190b34857ecc9091a3_200.jpg
+Mannion,"Mannion, John",New York,22.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677446860b34857ecc909119_200.jpg
+Mackenzie,"Mackenzie, Ryan",Pennsylvania,7.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677430a40b34857ecc909113_200.jpg
+Hernández,"Hernández, Pablo",Puerto Rico,0.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67742d980b34857ecc9090e3_200.jpg
+Dexter,"Dexter, Maxine",Oregon,3.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677425260b34857ecc90907d_200.jpg
+Bresnahan,"Bresnahan, Robert",Pennsylvania,8.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/6774236f0b34857ecc90905f_200.jpg
+Bynum,"Bynum, Janelle",Oregon,5.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677423150b34857ecc909059_200.jpg
+Biggs,"Biggs, Sheri",South Carolina,3.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677422990b34857ecc909052_200.jpg
+Rulli,"Rulli, Michael A.",Ohio,6.0,Republican,House of Representatives: 2024,https://www.congress.gov/img/member/668e9425658443009a697c95_200.jpg
+Kennedy,"Kennedy, Timothy M.",New York,26.0,Democratic,House of Representatives: 2024,https://www.congress.gov/img/member/668e9306658443009a697c8c_200.jpg
+Amo,"Amo, Gabe",Rhode Island,1.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/669ace45fa2fb0d731226768_200.jpg
+Salinas,"Salinas, Andrea",Oregon,6.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/s001226_200.jpg
+Magaziner,"Magaziner, Seth",Rhode Island,2.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/m001223_200.jpg
+Lee,"Lee, Summer L.",Pennsylvania,12.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/l000602_200.jpg
+Langworthy,"Langworthy, Nicholas A.",New York,23.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/l000600_200.jpg
+Landsman,"Landsman, Greg",Ohio,1.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/l000601_200.jpg
+Fry,"Fry, Russell",South Carolina,7.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/f000478_200.jpg
+Brecheen,"Brecheen, Josh",Oklahoma,2.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/b001317_200.jpg
+Brown,"Brown, Shontel M.",Ohio,11.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/b001313_200.jpg
+Bice,"Bice, Stephanie I.",Oklahoma,5.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/b000740_200.jpg
+Reschenthaler,"Reschenthaler, Guy",Pennsylvania,14.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/r000610_200.jpg
+Joyce,"Joyce, John",Pennsylvania,13.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/j000302_200.jpg
+Hern,"Hern, Kevin",Oklahoma,1.0,Republican,House of Representatives: 2018,https://www.congress.gov/img/member/h001082_200.jpg
+Scanlon,"Scanlon, Mary Gay",Pennsylvania,5.0,Democratic,House of Representatives: 2018,https://www.congress.gov/img/member/116_rp_pa_5_scanlon_mary_200.jpg
+Tenney,"Tenney, Claudia",New York,24.0,Republican,"House of Representatives: 2017 - 2019
+House of Representatives: 2021",https://www.congress.gov/img/member/t000478_200.jpg
+Latta,"Latta, Robert E.",Ohio,5.0,Republican,House of Representatives: 2007,https://www.congress.gov/img/member/l000566_200.jpg
+Kaptur,"Kaptur, Marcy",Ohio,9.0,Democratic,House of Representatives: 1983,https://www.congress.gov/img/member/k000009_200.jpg
+Riley,"Riley, Josh",New York,19.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67745e360b34857ecc909179_200.jpg
+Pou,"Pou, Nellie",New Jersey,9.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67745d3b0b34857ecc909167_200.jpg
+Latimer,"Latimer, George",New York,16.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/6774301b0b34857ecc909107_200.jpg
+Gillen,"Gillen, Laura",New York,4.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677427de0b34857ecc9090ad_200.jpg
+McIver,"McIver, LaMonica",New Jersey,10.0,Democratic,House of Representatives: 2024,https://www.congress.gov/img/member/66fd489d799e1a7c06d68d62_200.jpg
+Vasquez,"Vasquez, Gabe",New Mexico,2.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/v000136_200.jpg
+Menendez,"Menendez, Robert",New Jersey,8.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/m001226_200.jpg
+Lawler,"Lawler, Michael",New York,17.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/l000599_200.jpg
+LaLota,"LaLota, Nick",New York,1.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/l000598_200.jpg
+Ryan,"Ryan, Patrick",New York,18.0,Democratic,House of Representatives: 2022,https://www.congress.gov/img/member/r000579_200.jpg
+Malliotakis,"Malliotakis, Nicole",New York,11.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/m000317_200.jpg
+Leger Fernandez,"Leger Fernandez, Teresa",New Mexico,3.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/l000273_200.jpg
+Suozzi,"Suozzi, Thomas R.",New York,3.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/116_rp_ny_3_suozzi_thomas_200.jpg
+Jeffries,"Jeffries, Hakeem S.",New York,8.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/j000294_200.jpg
+Meng,"Meng, Grace",New York,6.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/m001188_200.jpg
+Tonko,"Tonko, Paul",New York,20.0,Democratic,House of Representatives: 2009,https://www.congress.gov/img/member/t000469_200.jpg
+Titus,"Titus, Dina",Nevada,1.0,Democratic,"House of Representatives: 2009 - 2011
+House of Representatives: 2013",https://www.congress.gov/img/member/t000468_200.jpg
+McDowell,"McDowell, Addison",North Carolina,6.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67744e930b34857ecc90914f_200.jpg
+Moore,"Moore, Tim",North Carolina,14.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67744a540b34857ecc909137_200.jpg
+Knott,"Knott, Brad",North Carolina,13.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742fc60b34857ecc909101_200.jpg
+Harris,"Harris, Mark",North Carolina,8.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742d1b0b34857ecc9090dd_200.jpg
+Harrigan,"Harrigan, Pat",North Carolina,10.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742ca40b34857ecc9090d7_200.jpg
+Fedorchak,"Fedorchak, Julie",North Dakota,0.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677426c20b34857ecc90909b_200.jpg
+Downing,"Downing, Troy",Montana,2.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677424da0b34857ecc909077_200.jpg
+Conaway,"Conaway, Herbert",New Jersey,3.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/6774243a0b34857ecc90906b_200.jpg
+Foushee,"Foushee, Valerie P.",North Carolina,4.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/f000477_200.jpg
+Gottheimer,"Gottheimer, Josh",New Jersey,5.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_nj_5_gottheimer_josh_200.jpg
+Onder,"Onder, Robert",Missouri,3.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67744f970b34857ecc909161_200.jpg
+Olszewski,"Olszewski, Johnny",Maryland,2.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67744f4e0b34857ecc90915b_200.jpg
+McDonald Rivet,"McDonald Rivet, Kristen",Michigan,8.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67744afa0b34857ecc90913d_200.jpg
+Morrison,"Morrison, Kelly",Minnesota,3.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677449a70b34857ecc90912b_200.jpg
+McClain Delaney,"McClain Delaney, April",Maryland,6.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677446d80b34857ecc90911f_200.jpg
+King-Hinds,"King-Hinds, Kimberlyn",Northern Mariana Islands,0.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742f0a0b34857ecc9090fb_200.jpg
+Elfreth,"Elfreth, Sarah",Maryland,3.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677425dc0b34857ecc909089_200.jpg
+Bell,"Bell, Wesley",Missouri,1.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677422240b34857ecc90904a_200.jpg
+Barrett,"Barrett, Tom",Michigan,7.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/6774207d0b34857ecc909034_200.jpg
+Thanedar,"Thanedar, Shri",Michigan,13.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/t000488_200.jpg
+James,"James, John",Michigan,10.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/j000307_200.jpg
+Ivey,"Ivey, Glenn",Maryland,4.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/i000058_200.jpg
+Alford,"Alford, Mark",Missouri,4.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/a000379_200.jpg
+Finstad,"Finstad, Brad",Minnesota,1.0,Republican,House of Representatives: 2022,https://www.congress.gov/img/member/f000475_200.jpg
+McClain,"McClain, Lisa C.",Michigan,9.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/677836d41658e791a384976d_200.jpg
+Fischbach,"Fischbach, Michelle",Minnesota,7.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/f000470_200.jpg
+Golden,"Golden, Jared F.",Maine,2.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/g000592_200.jpg
+Craig,"Craig, Angie",Minnesota,2.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/c001119_200.jpg
+Trahan,"Trahan, Lori",Massachusetts,3.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/t000482_200.jpg
+Emmer,"Emmer, Tom",Minnesota,6.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/e000294_200.jpg
+Keating,"Keating, William R.",Massachusetts,9.0,Democratic,House of Representatives: 2011,https://www.congress.gov/img/member/k000375_200.jpg
+Shreve,"Shreve, Jefferson",Indiana,6.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67745f0e0b34857ecc90918b_200.jpg
+Schmidt,"Schmidt, Derek",Kansas,2.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67745ec50b34857ecc909185_200.jpg
+Messmer,"Messmer, Mark",Indiana,8.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677448630b34857ecc909125_200.jpg
+Tokuda,"Tokuda, Jill N.",Hawaii,2.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/t000487_200.jpg
+Sorensen,"Sorensen, Eric",Illinois,17.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/s001225_200.jpg
+Nunn,"Nunn, Zachary",Iowa,3.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/n000193_200.jpg
+Jackson,"Jackson, Jonathan L.",Illinois,1.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/j000309_200.jpg
+Houchin,"Houchin, Erin",Indiana,9.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/h001093_200.jpg
+Budzinski,"Budzinski, Nikki",Illinois,13.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/b001315_200.jpg
+Miller-Meeks,"Miller-Meeks, Mariannette",Iowa,1.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/m001215_200.jpg
+Mrvan,"Mrvan, Frank J.",Indiana,1.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/m001214_200.jpg
+Hinson,"Hinson, Ashley",Iowa,2.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/677ed0c7514c773869b6b920_200.jpg
+Feenstra,"Feenstra, Randy",Iowa,4.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/f000446_200.jpg
+Underwood,"Underwood, Lauren",Illinois,14.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/u000040_200.jpg
+García,"García, Jesús G. ""Chuy""",Illinois,4.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/g000586_200.jpg
+LaHood,"LaHood, Darin",Illinois,16.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/115_rp_il_18_lahood_darin_200.jpg
+Massie,"Massie, Thomas",Kentucky,4.0,Republican,House of Representatives: 2012,https://www.congress.gov/img/member/m001184_200.jpg
+Stutzman,"Stutzman, Marlin A.",Indiana,3.0,Republican,"House of Representatives: 2010 - 2017
+House of Representatives: 2025",https://www.congress.gov/img/member/67745e7e0b34857ecc90917f_200.jpg
+Guthrie,"Guthrie, Brett",Kentucky,2.0,Republican,House of Representatives: 2009,https://www.congress.gov/img/member/g000558_200.jpg
+Scalise,"Scalise, Steve",Louisiana,1.0,Republican,House of Representatives: 2008,https://www.congress.gov/img/member/s001176_200.jpg
+Fields,"Fields, Cleo",Louisiana,6.0,Democratic,"House of Representatives: 1993 - 1997
+House of Representatives: 2025",https://www.congress.gov/img/member/677426250b34857ecc90908f_200.jpg
+McBride,"McBride, Sarah",Delaware,0.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67744b460b34857ecc909143_200.jpg
+Jack,"Jack, Brian",Georgia,3.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742e330b34857ecc9090ef_200.jpg
+Haridopolos,"Haridopolos, Mike",Florida,8.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742ab50b34857ecc9090cb_200.jpg
+Moylan,"Moylan, James C.",Guam,,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/m001219_200.jpg
+Moskowitz,"Moskowitz, Jared",Florida,23.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/m001217_200.jpg
+Mills,"Mills, Cory",Florida,7.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/m001216_200.jpg
+McCormick,"McCormick, Richard",Georgia,7.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/m001218_200.jpg
+Luna,"Luna, Anna Paulina",Florida,13.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/l000596_200.jpg
+Lee,"Lee, Laurel M.",Florida,15.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/l000597_200.jpg
+Collins,"Collins, Mike",Georgia,10.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/c001129_200.jpg
+Bean,"Bean, Aaron",Florida,4.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/b001314_200.jpg
+Cherfilus-McCormick,"Cherfilus-McCormick, Sheila",Florida,20.0,Democratic,House of Representatives: 2022,https://www.congress.gov/img/member/c001127_200.jpg
+Greene,"Greene, Marjorie Taylor",Georgia,14.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/g000596_200.jpg
+Franklin,"Franklin, Scott",Florida,18.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/f000472_200.jpg
+Donalds,"Donalds, Byron",Florida,19.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/d000032_200.jpg
+Buchanan,"Buchanan, Vern",Florida,16.0,Republican,House of Representatives: 2007,https://www.congress.gov/img/member/b001260_200.jpg
+Castor,"Castor, Kathy",Florida,14.0,Democratic,House of Representatives: 2007,https://www.congress.gov/img/member/c001066_200.jpg
+Tran,"Tran, Derek",California,45.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/6774606d0b34857ecc9091a9_200.jpg
+Min,"Min, Dave",California,47.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67744ed90b34857ecc909155_200.jpg
+Hurd,"Hurd, Jeff",Colorado,3.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742c5e0b34857ecc9090d1_200.jpg
+Evans,"Evans, Gabe",Colorado,8.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677425730b34857ecc909083_200.jpg
+Crank,"Crank, Jeff",Colorado,5.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/677424810b34857ecc909071_200.jpg
+Pettersen,"Pettersen, Brittany",Colorado,7.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/p000620_200.jpg
+Kamlager-Dove,"Kamlager-Dove, Sydney",California,37.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/k000400_200.jpg
+Garcia,"Garcia, Robert",California,42.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/g000598_200.jpg
+Kim,"Kim, Young",California,40.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/k000397_200.jpg
+Jacobs,"Jacobs, Sara",California,51.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/j000305_200.jpg
+Hayes,"Hayes, Jahana",Connecticut,5.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/h001081_200.jpg
+Correa,"Correa, J. Luis",California,46.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_ca_46_correa_j_200.jpg
+Peters,"Peters, Scott H.",California,50.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/p000608_200.jpg
+Vargas,"Vargas, Juan",California,52.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/v000130_200.jpg
+Sánchez,"Sánchez, Linda T.",California,38.0,Democratic,House of Representatives: 2003,https://www.congress.gov/img/member/116_rp_ca_38_snchez_linda_200.jpg
+Whitesides,"Whitesides, George",California,27.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677461d40b34857ecc9091bb_200.jpg
+Simon,"Simon, Lateefah",California,12.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67745f940b34857ecc909197_200.jpg
+Rivas,"Rivas, Luz",California,29.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67745d860b34857ecc90916d_200.jpg
+Liccardo,"Liccardo, Sam",California,16.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/6774305d0b34857ecc90910d_200.jpg
+Gray,"Gray, Adam",California,13.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67742a160b34857ecc9090bf_200.jpg
+Friedman,"Friedman, Laura",California,30.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677427070b34857ecc9090a1_200.jpg
+Fong,"Fong, Vince",California,20.0,Republican,House of Representatives: 2024,https://www.congress.gov/img/member/669ff04f5d19788d1f2034aa_200.jpg
+Obernolte,"Obernolte, Jay",California,23.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/o000019_200.jpg
+Cisneros,"Cisneros, Gilbert Ray, Jr.",California,31.0,Democratic,"House of Representatives: 2019 - 2021
+House of Representatives: 2025",https://www.congress.gov/img/member/677423d00b34857ecc909065_200.jpg
+Panetta,"Panetta, Jimmy",California,19.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/116_rp_ca_20_panetta_jimmy_200.jpg
+Hamadeh,"Hamadeh, Abraham",Arizona,8.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/67742a6f0b34857ecc9090c5_200.jpg
+Figures,"Figures, Shomari",Alabama,2.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/677426790b34857ecc909095_200.jpg
+Begich,"Begich, Nicholas",Alaska,0.0,Republican,House of Representatives: 2025,https://www.congress.gov/img/member/6774217e0b34857ecc909040_200.jpg
+Ansari,"Ansari, Yassamin",Arizona,3.0,Democratic,House of Representatives: 2025,https://www.congress.gov/img/member/67741fc30b34857ecc90902e_200.jpg
+Strong,"Strong, Dale W.",Alabama,5.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/s001220_200.jpg
+Kiley,"Kiley, Kevin",California,3.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/k000401_200.jpg
+Crane,"Crane, Elijah",Arizona,2.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/c001132_200.jpg
+Ciscomani,"Ciscomani, Juan",Arizona,6.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/c001133_200.jpg
+Moore,"Moore, Barry",Alabama,1.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/m001212_200.jpg
+Biggs,"Biggs, Andy",Arizona,5.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/b001302_200.jpg
+DeSaulnier,"DeSaulnier, Mark",California,10.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/115_rp_ca_11_desaulnier_mark_200.jpg
+Huffman,"Huffman, Jared",California,2.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/h001068_200.jpg
+Garamendi,"Garamendi, John",California,8.0,Democratic,House of Representatives: 2009,https://www.congress.gov/img/member/g000559_200.jpg
+Schweikert,"Schweikert, David",Arizona,1.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/s001183_200.jpg
+Matsui,"Matsui, Doris O.",California,7.0,Democratic,House of Representatives: 2005,https://www.congress.gov/img/member/m001163_200.jpg
+Aderholt,"Aderholt, Robert B.",Alabama,4.0,Republican,House of Representatives: 1997,https://www.congress.gov/img/member/a000055_200.jpg
+Bera,"Bera, Ami",California,6.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/b001287_200.jpg
+Huizenga,"Huizenga, Bill",Michigan,4.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/h001058_200.jpg
+Rubio,"Rubio, Marco",Florida,,Republican,Senate: 2011 - 2025,https://www.congress.gov/img/member/r000595_200.jpg
+Justice,"Justice, James C.",West Virginia,,Republican,Senate: 2025,
+Auchincloss,"Auchincloss, Jake",Massachusetts,4.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/67817e391f9ad6ea6fb1ebda_200.jpg
+Simpson,"Simpson, Michael K.",Idaho,2.0,Republican,House of Representatives: 1999,https://www.congress.gov/img/member/678152c81f9ad6ea6fb1eb7f_200.jpg
+Vance,"Vance, J. D.",Ohio,,Republican,Senate: 2023 - 2025,https://www.congress.gov/img/member/v000137_200.jpg
+Perry,"Perry, Scott",Pennsylvania,10.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/677ec7d3514c773869b6b915_200.jpg
+Van Duyne,"Van Duyne, Beth",Texas,24.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/677461060b34857ecc9091af_200.jpg
+Meuser,"Meuser, Daniel",Pennsylvania,9.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/6776ebbf4f8a93753830ca7d_200.jpg
+Slotkin,"Slotkin, Elissa",Michigan,,Democratic,"House of Representatives: 2019 - 2025
+Senate: 2025",https://www.congress.gov/img/member/s001208_200.jpg
+Sheehy,"Sheehy, Tim",Montana,,Republican,Senate: 2025,
+Moreno,"Moreno, Bernie",Ohio,,Republican,Senate: 2025,
+McCormick,"McCormick, David",Pennsylvania,,Republican,Senate: 2025,
+Gallego,"Gallego, Ruben",Arizona,,Democratic,"House of Representatives: 2015 - 2025
+Senate: 2025",https://www.congress.gov/img/member/g000574_200.jpg
+Curtis,"Curtis, John R.",Utah,,Republican,"House of Representatives: 2017 - 2025
+Senate: 2025",https://www.congress.gov/img/member/c001114_200.jpg
+Blunt Rochester,"Blunt Rochester, Lisa",Delaware,,Democratic,"House of Representatives: 2017 - 2025
+Senate: 2025",https://www.congress.gov/img/member/b001303_200.jpg
+Banks,"Banks, Jim",Indiana,,Republican,"House of Representatives: 2017 - 2025
+Senate: 2025",https://www.congress.gov/img/member/b001299_200.jpg
+Alsobrooks,"Alsobrooks, Angela",Maryland,,Democratic,Senate: 2025,
+Schiff,"Schiff, Adam B.",California,,Democratic,"House of Representatives: 2001 - 2024
+Senate: 2024",https://www.congress.gov/img/member/116_rp_ca_28_schiff_adam_200.jpg
+Kim,"Kim, Andy",New Jersey,,Democratic,"House of Representatives: 2019 - 2024
+Senate: 2024",https://www.congress.gov/img/member/k000394_200.jpg
+Ricketts,"Ricketts, Pete",Nebraska,,Republican,Senate: 2023,https://www.congress.gov/img/member/r000618_200.jpg
+Clarke,"Clarke, Yvette D.",New York,9.0,Democratic,House of Representatives: 2007,https://www.congress.gov/img/member/674dfc6b5c48ff736e6e1762_200.jpg
+Norcross,"Norcross, Donald",New Jersey,1.0,Democratic,House of Representatives: 2014,https://www.congress.gov/img/member/n000188_200.jpg
+Young,"Young, Todd",Indiana,,Republican,"House of Representatives: 2011 - 2017
+Senate: 2017",https://www.congress.gov/img/member/y000064_200.jpg
+Whitehouse,"Whitehouse, Sheldon",Rhode Island,,Democratic,Senate: 2007,https://www.congress.gov/img/member/w000802_200.jpg
+Welch,"Welch, Peter",Vermont,,Democratic,"House of Representatives: 2007 - 2023
+Senate: 2023",https://www.congress.gov/img/member/w000800_200.jpg
+Wyden,"Wyden, Ron",Oregon,,Democratic,"House of Representatives: 1981 - 1996
+Senate: 1996",https://www.congress.gov/img/member/w000779_200.jpg
+Wicker,"Wicker, Roger F.",Mississippi,,Republican,"House of Representatives: 1995 - 2007
+Senate: 2007",https://www.congress.gov/img/member/w000437_200.jpg
+Warnock,"Warnock, Raphael G.",Georgia,,Democratic,Senate: 2021,https://www.congress.gov/img/member/w000790_200.jpg
+Tuberville,"Tuberville, Tommy",Alabama,,Republican,Senate: 2021,https://www.congress.gov/img/member/t000278_200.jpg
+Warren,"Warren, Elizabeth",Massachusetts,,Democratic,Senate: 2013,https://www.congress.gov/img/member/w000817_200.jpg
+Warner,"Warner, Mark R.",Virginia,,Democratic,Senate: 2009,https://www.congress.gov/img/member/w000805_200.jpg
+Van Hollen,"Van Hollen, Chris",Maryland,,Democratic,"House of Representatives: 2003 - 2017
+Senate: 2017",https://www.congress.gov/img/member/v000128_200.jpg
+Tillis,"Tillis, Thomas",North Carolina,,Republican,Senate: 2015,https://www.congress.gov/img/member/t000476_200.jpg
+Thune,"Thune, John",South Dakota,,Republican,"House of Representatives: 1997 - 2003
+Senate: 2005",https://www.congress.gov/img/member/t000250_200.jpg
+Sullivan,"Sullivan, Dan",Alaska,,Republican,Senate: 2015,https://www.congress.gov/img/member/s001198_200.jpg
+Schmitt,"Schmitt, Eric",Missouri,,Republican,Senate: 2023,https://www.congress.gov/img/member/s001227_200.jpg
+Scott,"Scott, Rick",Florida,,Republican,Senate: 2019,https://www.congress.gov/img/member/s001217_200.jpg
+Smith,"Smith, Tina",Minnesota,,Democratic,Senate: 2018,https://www.congress.gov/img/member/s001203_200.jpg
+Scott,"Scott, Tim",South Carolina,,Republican,"House of Representatives: 2011 - 2013
+Senate: 2013",https://www.congress.gov/img/member/s001184_200.jpg
+Shaheen,"Shaheen, Jeanne",New Hampshire,,Democratic,Senate: 2009,https://www.congress.gov/img/member/s001181_200.jpg
+Schumer,"Schumer, Charles E.",New York,,Democratic,"House of Representatives: 1981 - 1999
+Senate: 1999",https://www.congress.gov/img/member/s000148_200.jpg
+Schatz,"Schatz, Brian",Hawaii,,Democratic,Senate: 2012,https://www.congress.gov/img/member/s001194_200.jpg
+Sanders,"Sanders, Bernard",Vermont,,Independent,"House of Representatives: 1991 - 2007
+Senate: 2007",https://www.congress.gov/img/member/s000033_200.jpg
+Rosen,"Rosen, Jacky",Nevada,,Democratic,"House of Representatives: 2017 - 2019
+Senate: 2019",https://www.congress.gov/img/member/r000608_200.jpg
+Rounds,"Rounds, Mike",South Dakota,,Republican,Senate: 2015,https://www.congress.gov/img/member/r000605_200.jpg
+Risch,"Risch, James E.",Idaho,,Republican,Senate: 2009,https://www.congress.gov/img/member/r000584_200.jpg
+Padilla,"Padilla, Alex",California,,Democratic,Senate: 2021,https://www.congress.gov/img/member/p000145_200.jpg
+Paul,"Paul, Rand",Kentucky,,Republican,Senate: 2011,https://www.congress.gov/img/member/p000603_200.jpg
+Peters,"Peters, Gary C.",Michigan,,Democratic,"House of Representatives: 2009 - 2015
+Senate: 2015",https://www.congress.gov/img/member/p000595_200.jpg
+Reed,"Reed, Jack",Rhode Island,,Democratic,"House of Representatives: 1991 - 1997
+Senate: 1997",https://www.congress.gov/img/member/r000122_200.jpg
+Ossoff,"Ossoff, Jon",Georgia,,Democratic,Senate: 2021,https://www.congress.gov/img/member/o000174_200.jpg
+Murphy,"Murphy, Christopher",Connecticut,,Democratic,"House of Representatives: 2007 - 2013
+Senate: 2013",https://www.congress.gov/img/member/m001169_200.jpg
+Murray,"Murray, Patty",Washington,,Democratic,Senate: 1993,https://www.congress.gov/img/member/m001111_200.jpg
+Mullin,"Mullin, Markwayne",Oklahoma,,Republican,"House of Representatives: 2013 - 2023
+Senate: 2023",https://www.congress.gov/img/member/m001190_200.jpg
+Moran,"Moran, Jerry",Kansas,,Republican,"House of Representatives: 1997 - 2011
+Senate: 2011",https://www.congress.gov/img/member/m000934_200.jpg
+Murkowski,"Murkowski, Lisa",Alaska,,Republican,Senate: 2002,https://www.congress.gov/img/member/m001153_200.jpg
+Marshall,"Marshall, Roger",Kansas,,Republican,"House of Representatives: 2017 - 2021
+Senate: 2021",https://www.congress.gov/img/member/m001198_200.jpg
+Lummis,"Lummis, Cynthia M.",Wyoming,,Republican,"House of Representatives: 2009 - 2017
+Senate: 2021",https://www.congress.gov/img/member/l000571_200.jpg
+Merkley,"Merkley, Jeff",Oregon,,Democratic,Senate: 2009,https://www.congress.gov/img/member/m001176_200.jpg
+Markey,"Markey, Edward J.",Massachusetts,,Democratic,"House of Representatives: 1977 - 2013
+Senate: 2013",https://www.congress.gov/img/member/m000133_200.jpg
+McConnell,"McConnell, Mitch",Kentucky,,Republican,Senate: 1985,https://www.congress.gov/img/member/m000355_200.jpg
+Klobuchar,"Klobuchar, Amy",Minnesota,,Democratic,Senate: 2007,https://www.congress.gov/img/member/k000367_200.jpg
+Lee,"Lee, Mike",Utah,,Republican,Senate: 2011,https://www.congress.gov/img/member/l000577_200.jpg
+Lankford,"Lankford, James",Oklahoma,,Republican,"House of Representatives: 2011 - 2015
+Senate: 2015",https://www.congress.gov/img/member/l000575_200.jpg
+Lujan,"Lujan, Ben Ray",New Mexico,,Democratic,"House of Representatives: 2009 - 2021
+Senate: 2021",https://www.congress.gov/img/member/l000570_200.jpg
+Kelly,"Kelly, Mark",Arizona,,Democratic,Senate: 2020,https://www.congress.gov/img/member/k000377_200.jpg
+Kennedy,"Kennedy, John",Louisiana,,Republican,Senate: 2017,https://www.congress.gov/img/member/k000393_200.jpg
+King,"King, Angus S., Jr.",Maine,,Independent,Senate: 2013,https://www.congress.gov/img/member/k000383_200.jpg
+Hickenlooper,"Hickenlooper, John W.",Colorado,,Democratic,Senate: 2021,https://www.congress.gov/img/member/h000273_200.jpg
+Hyde-Smith,"Hyde-Smith, Cindy",Mississippi,,Republican,Senate: 2018,https://www.congress.gov/img/member/h001079_200.jpg
+Kaine,"Kaine, Tim",Virginia,,Democratic,Senate: 2013,https://www.congress.gov/img/member/k000384_200.jpg
+Johnson,"Johnson, Ron",Wisconsin,,Republican,Senate: 2011,https://www.congress.gov/img/member/j000293_200.jpg
+Hoeven,"Hoeven, John",North Dakota,,Republican,Senate: 2011,https://www.congress.gov/img/member/h001061_200.jpg
+Hirono,"Hirono, Mazie K.",Hawaii,,Democratic,"House of Representatives: 2007 - 2013
+Senate: 2013",https://www.congress.gov/img/member/h001042_200.jpg
+Hawley,"Hawley, Josh",Missouri,,Republican,Senate: 2019,https://www.congress.gov/img/member/h001089_200.jpg
+Heinrich,"Heinrich, Martin",New Mexico,,Democratic,"House of Representatives: 2009 - 2013
+Senate: 2013",https://www.congress.gov/img/member/h001046_200.jpg
+Hagerty,"Hagerty, Bill",Tennessee,,Republican,Senate: 2021,https://www.congress.gov/img/member/h000601_200.jpg
+Hassan,"Hassan, Margaret Wood",New Hampshire,,Democratic,Senate: 2017,https://www.congress.gov/img/member/h001076_200.jpg
+Grassley,"Grassley, Chuck",Iowa,,Republican,"House of Representatives: 1975 - 1981
+Senate: 1981",https://www.congress.gov/img/member/g000386_200.jpg
+Fetterman,"Fetterman, John",Pennsylvania,,Democratic,Senate: 2023,https://www.congress.gov/img/member/f000479_200.jpg
+Ernst,"Ernst, Joni",Iowa,,Republican,Senate: 2015,https://www.congress.gov/img/member/e000295_200.jpg
+Fischer,"Fischer, Deb",Nebraska,,Republican,Senate: 2013,https://www.congress.gov/img/member/f000463_200.jpg
+Duckworth,"Duckworth, Tammy",Illinois,,Democratic,"House of Representatives: 2013 - 2017
+Senate: 2017",https://www.congress.gov/img/member/d000622_200.jpg
+Gillibrand,"Gillibrand, Kirsten E.",New York,,Democratic,"House of Representatives: 2007 - 2009
+Senate: 2009",https://www.congress.gov/img/member/g000555_200.jpg
+Graham,"Graham, Lindsey",South Carolina,,Republican,"House of Representatives: 1995 - 2003
+Senate: 2003",https://www.congress.gov/img/member/g000359_200.jpg
+Durbin,"Durbin, Richard J.",Illinois,,Democratic,"House of Representatives: 1983 - 1997
+Senate: 1997",https://www.congress.gov/img/member/d000563_200.jpg
+Cruz,"Cruz, Ted",Texas,,Republican,Senate: 2013,https://www.congress.gov/img/member/c001098_200.jpg
+Daines,"Daines, Steve",Montana,,Republican,"House of Representatives: 2013 - 2015
+Senate: 2015",https://www.congress.gov/img/member/d000618_200.jpg
+Cramer,"Cramer, Kevin",North Dakota,,Republican,"House of Representatives: 2013 - 2019
+Senate: 2019",https://www.congress.gov/img/member/c001096_200.jpg
+Cotton,"Cotton, Tom",Arkansas,,Republican,"House of Representatives: 2013 - 2015
+Senate: 2015",https://www.congress.gov/img/member/c001095_200.jpg
+Crapo,"Crapo, Mike",Idaho,,Republican,"House of Representatives: 1993 - 1999
+Senate: 1999",https://www.congress.gov/img/member/c000880_200.jpg
+Cortez Masto,"Cortez Masto, Catherine",Nevada,,Democratic,Senate: 2017,https://www.congress.gov/img/member/c001113_200.jpg
+Coons,"Coons, Christopher A.",Delaware,,Democratic,Senate: 2010,https://www.congress.gov/img/member/c001088_200.jpg
+Cassidy,"Cassidy, Bill",Louisiana,,Republican,"House of Representatives: 2009 - 2015
+Senate: 2015",https://www.congress.gov/img/member/c001075_200.jpg
+Collins,"Collins, Susan M.",Maine,,Republican,Senate: 1997,https://www.congress.gov/img/member/c001035_200.jpg
+Cornyn,"Cornyn, John",Texas,,Republican,Senate: 2002,https://www.congress.gov/img/member/c001056_200.jpg
+Capito,"Capito, Shelley Moore",West Virginia,,Republican,"House of Representatives: 2001 - 2015
+Senate: 2015",https://www.congress.gov/img/member/c001047_200.jpg
+Budd,"Budd, Ted",North Carolina,,Republican,"House of Representatives: 2017 - 2023
+Senate: 2023",https://www.congress.gov/img/member/b001305_200.jpg
+Cantwell,"Cantwell, Maria",Washington,,Democratic,"House of Representatives: 1993 - 1995
+Senate: 2001",https://www.congress.gov/img/member/c000127_200.jpg
+Britt,"Britt, Katie Boyd",Alabama,,Republican,Senate: 2023,https://www.congress.gov/img/member/b001319_200.jpg
+Booker,"Booker, Cory A.",New Jersey,,Democratic,Senate: 2013,https://www.congress.gov/img/member/b001288_200.jpg
+Blumenthal,"Blumenthal, Richard",Connecticut,,Democratic,Senate: 2011,https://www.congress.gov/img/member/b001277_200.jpg
+Boozman,"Boozman, John",Arkansas,,Republican,"House of Representatives: 2001 - 2011
+Senate: 2011",https://www.congress.gov/img/member/b001236_200.jpg
+Barrasso,"Barrasso, John",Wyoming,,Republican,Senate: 2007,https://www.congress.gov/img/member/b001261_200.jpg
+Bennet,"Bennet, Michael F.",Colorado,,Democratic,Senate: 2009,https://www.congress.gov/img/member/b001267_200.jpg
+Baldwin,"Baldwin, Tammy",Wisconsin,,Democratic,"House of Representatives: 1999 - 2013
+Senate: 2013",https://www.congress.gov/img/member/b001230_200.jpg
+Blackburn,"Blackburn, Marsha",Tennessee,,Republican,"House of Representatives: 2003 - 2019
+Senate: 2019",https://www.congress.gov/img/member/b001243_200.jpg
+Lofgren,"Lofgren, Zoe",California,18.0,Democratic,House of Representatives: 1995,https://www.congress.gov/img/member/671024d7ec807bca66057fcb_200.jpg
+Mullin,"Mullin, Kevin",California,15.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/m001225_200.jpg
+Ruiz,"Ruiz, Raul",California,25.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/66e1aec832c796cea99fe06f_200.jpg
+De La Cruz,"De La Cruz, Monica",Texas,15.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/66d9fd54f440bf1dc174fbf6_200.jpg
+Carey,"Carey, Mike",Ohio,15.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/c001126_200.jpg
+Clyburn,"Clyburn, James E.",South Carolina,6.0,Democratic,House of Representatives: 1993,https://www.congress.gov/img/member/c000537_200.jpg
+Frost,"Frost, Maxwell",Florida,10.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/f000476_200.jpg
+Van Orden,"Van Orden, Derrick",Wisconsin,3.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/v000135_200.jpg
+Perez,"Perez, Marie Gluesenkamp",Washington,3.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/g000600_200.jpg
+Tiffany,"Tiffany, Thomas P.",Wisconsin,7.0,Republican,House of Representatives: 2020,https://www.congress.gov/img/member/t000165_200.jpg
+Miller,"Miller, Carol D.",West Virginia,1.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/m001205_200.jpg
+Steil,"Steil, Bryan",Wisconsin,1.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/s001213_200.jpg
+Schrier,"Schrier, Kim",Washington,8.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/s001216_200.jpg
+Cline,"Cline, Ben",Virginia,6.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/c001118_200.jpg
+Jayapal,"Jayapal, Pramila",Washington,7.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/116_rp_wa_7_jayapal_pramila_200.jpg
+Plaskett,"Plaskett, Stacey E.",Virgin Islands,,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/116_dg_vi_plaskett_stacey_200.jpg
+Pocan,"Pocan, Mark",Wisconsin,2.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/p000607_200.jpg
+Connolly,"Connolly, Gerald E.",Virginia,11.0,Democratic,House of Representatives: 2009,https://www.congress.gov/img/member/c001078_200.jpg
+Smith,"Smith, Adam",Washington,9.0,Democratic,House of Representatives: 1997,https://www.congress.gov/img/member/116_rp_wa_9_smith_adam_200.jpg
+Moore,"Moore, Gwen",Wisconsin,4.0,Democratic,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_wi_4_moore_gwen_200.jpg
+Larsen,"Larsen, Rick",Washington,2.0,Democratic,House of Representatives: 2001,https://www.congress.gov/img/member/116_rp_wa_2_larsen_rick_200.jpg
+Ogles,"Ogles, Andrew",Tennessee,5.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/o000175_200.jpg
+Hunt,"Hunt, Wesley",Texas,38.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/h001095_200.jpg
+Crockett,"Crockett, Jasmine",Texas,30.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/c001130_200.jpg
+Ellzey,"Ellzey, Jake",Texas,6.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/e000071_200.jpg
+Owens,"Owens, Burgess",Utah,4.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/o000086_200.jpg
+Nehls,"Nehls, Troy E.",Texas,22.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/n000026_200.jpg
+Moore,"Moore, Blake D.",Utah,1.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/m001213_200.jpg
+Mace,"Mace, Nancy",South Carolina,1.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/m000194_200.jpg
+Harshbarger,"Harshbarger, Diana",Tennessee,1.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/h001086_200.jpg
+Fallon,"Fallon, Pat",Texas,4.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/f000246_200.jpg
+Garcia,"Garcia, Sylvia R.",Texas,29.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/g000587_200.jpg
+Roy,"Roy, Chip",Texas,21.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/r000614_200.jpg
+Escobar,"Escobar, Veronica",Texas,16.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/e000299_200.jpg
+Gooden,"Gooden, Lance",Texas,5.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/g000589_200.jpg
+Crenshaw,"Crenshaw, Dan",Texas,2.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/c001120_200.jpg
+Green,"Green, Mark E.",Tennessee,7.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/g000590_200.jpg
+Rose,"Rose, John W.",Tennessee,6.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/r000612_200.jpg
+Burchett,"Burchett, Tim",Tennessee,2.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/b001309_200.jpg
+Johnson,"Johnson, Dusty",South Dakota,0.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/j000301_200.jpg
+Timmons,"Timmons, William R.",South Carolina,4.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/t000480_200.jpg
+Norman,"Norman, Ralph",South Carolina,5.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/n000190_200.jpg
+Kustoff,"Kustoff, David",Tennessee,8.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/116_rp_tn_8_kustoff_david_200.jpg
+Babin,"Babin, Brian",Texas,36.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/b001291_200.jpg
+Williams,"Williams, Roger",Texas,25.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/w000816_200.jpg
+Castro,"Castro, Joaquin",Texas,20.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/c001091_200.jpg
+Weber,"Weber, Randy K. Sr.",Texas,14.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/w000814_200.jpg
+Wittman,"Wittman, Robert J.",Virginia,1.0,Republican,House of Representatives: 2007,https://www.congress.gov/img/member/w000804_200.jpg
+DesJarlais,"DesJarlais, Scott",Tennessee,4.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/d000616_200.jpg
+Fleischmann,"Fleischmann, Charles J. ""Chuck""",Tennessee,3.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/f000459_200.jpg
+Cohen,"Cohen, Steve",Tennessee,9.0,Democratic,House of Representatives: 2007,https://www.congress.gov/img/member/c001068_200.jpg
+Sessions,"Sessions, Pete",Texas,17.0,Republican,"House of Representatives: 1997 - 2019
+House of Representatives: 2021",https://www.congress.gov/img/member/115_rp_tx_32_sessions_pete_200.jpg
+Scott,"Scott, Robert C. ""Bobby""",Virginia,3.0,Democratic,House of Representatives: 1993,https://www.congress.gov/img/member/s000185_200.jpg
+McCaul,"McCaul, Michael T.",Texas,10.0,Republican,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_tx_10_mccaul_michael_200.jpg
+Green,"Green, Al",Texas,9.0,Democratic,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_tx_9_green_al_200.jpg
+Carter,"Carter, John R.",Texas,31.0,Republican,House of Representatives: 2003,https://www.congress.gov/img/member/c001051_200.jpg
+Wilson,"Wilson, Joe",South Carolina,2.0,Republican,House of Representatives: 2001,https://www.congress.gov/img/member/116_rp_sc_2_wilson_joe_200.jpg
+Doggett,"Doggett, Lloyd",Texas,37.0,Democratic,House of Representatives: 1995,https://www.congress.gov/img/member/d000399_200.jpg
+Sykes,"Sykes, Emilia Strong",Ohio,13.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/s001223_200.jpg
+Miller,"Miller, Max L.",Ohio,7.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/m001222_200.jpg
+Hoyle,"Hoyle, Val T.",Oregon,4.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/h001094_200.jpg
+Deluzio,"Deluzio, Christopher R.",Pennsylvania,17.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/d000530_200.jpg
+Bentz,"Bentz, Cliff",Oregon,2.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/b000668_200.jpg
+Houlahan,"Houlahan, Chrissy",Pennsylvania,6.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/h001085_200.jpg
+Dean,"Dean, Madeleine",Pennsylvania,4.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/d000631_200.jpg
+Morelle,"Morelle, Joseph D.",New York,25.0,Democratic,House of Representatives: 2018,https://www.congress.gov/img/member/m001206_200.jpg
+Balderson,"Balderson, Troy",Ohio,12.0,Republican,House of Representatives: 2018,https://www.congress.gov/img/member/116_rp_oh_12_balderson_troy_200.jpg
+Smucker,"Smucker, Lloyd",Pennsylvania,11.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/s001199_200.jpg
+Fitzpatrick,"Fitzpatrick, Brian K.",Pennsylvania,1.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/116_rp_pa_1_fitzpatrick_brian_200.jpg
+Evans,"Evans, Dwight",Pennsylvania,3.0,Democratic,House of Representatives: 2016,https://www.congress.gov/img/member/115_rp_pa_2_evans_dwight_200.jpg
+Davidson,"Davidson, Warren",Ohio,8.0,Republican,House of Representatives: 2016,https://www.congress.gov/img/member/115_rp_oh_8_davidson_warren_200.jpg
+Boyle,"Boyle, Brendan F.",Pennsylvania,2.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/115_rp_pa_13_boyle_brendan_200.jpg
+Stefanik,"Stefanik, Elise M.",New York,21.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/s001196_200.jpg
+Joyce,"Joyce, David P.",Ohio,14.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/j000295_200.jpg
+Beatty,"Beatty, Joyce",Ohio,3.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/b001281_200.jpg
+Bonamici,"Bonamici, Suzanne",Oregon,1.0,Democratic,House of Representatives: 2012,https://www.congress.gov/img/member/b001278_200.jpg
+Kelly,"Kelly, Mike",Pennsylvania,16.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/k000376_200.jpg
+Jordan,"Jordan, Jim",Ohio,4.0,Republican,House of Representatives: 2007,https://www.congress.gov/img/member/j000289_200.jpg
+Thompson,"Thompson, Glenn",Pennsylvania,15.0,Republican,House of Representatives: 2009,https://www.congress.gov/img/member/115_rp_pa_5_thompson_glenn_200.jpg
+Lucas,"Lucas, Frank D.",Oklahoma,3.0,Republican,House of Representatives: 1993,https://www.congress.gov/img/member/116_rp_ok_3_lucas_frank_200.jpg
+Cole,"Cole, Tom",Oklahoma,4.0,Republican,House of Representatives: 2003,https://www.congress.gov/img/member/c001053_200.jpg
+Turner,"Turner, Michael R.",Ohio,10.0,Republican,House of Representatives: 2003,https://www.congress.gov/img/member/116_rp_oh_10_turner_michael_200.jpg
+Kean,"Kean, Thomas H.",New Jersey,7.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/k000398_200.jpg
+Goldman,"Goldman, Daniel S.",New York,10.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/g000599_200.jpg
+Edwards,"Edwards, Chuck",North Carolina,11.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/e000246_200.jpg
+Flood,"Flood, Mike",Nebraska,1.0,Republican,House of Representatives: 2022,https://www.congress.gov/img/member/f000474_200.jpg
+Stansbury,"Stansbury, Melanie A.",New Mexico,1.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/s001218_200.jpg
+Torres,"Torres, Ritchie",New York,15.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/t000486_200.jpg
+Garbarino,"Garbarino, Andrew R.",New York,2.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/g000597_200.jpg
+Ocasio-Cortez,"Ocasio-Cortez, Alexandria",New York,14.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/o000172_200.jpg
+Lee,"Lee, Susie",Nevada,3.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/l000590_200.jpg
+Sherrill,"Sherrill, Mikie",New Jersey,11.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/s001207_200.jpg
+Van Drew,"Van Drew, Jefferson",New Jersey,2.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/v000133_200.jpg
+Pappas,"Pappas, Chris",New Hampshire,1.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/p000614_200.jpg
+Espaillat,"Espaillat, Adriano",New York,13.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/e000297_200.jpg
+Bacon,"Bacon, Don",Nebraska,2.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_ne_2_bacon_don_200.jpg
+Watson Coleman,"Watson Coleman, Bonnie",New Jersey,12.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/w000822_200.jpg
+Rouzer,"Rouzer, David",North Carolina,7.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/r000603_200.jpg
+Adams,"Adams, Alma S.",North Carolina,12.0,Democratic,House of Representatives: 2014,https://www.congress.gov/img/member/a000370_200.jpg
+Horsford,"Horsford, Steven",Nevada,4.0,Democratic,"House of Representatives: 2013 - 2015
+House of Representatives: 2019",https://www.congress.gov/img/member/h001066_200.jpg
+Hudson,"Hudson, Richard",North Carolina,9.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/h001067_200.jpg
+Amodei,"Amodei, Mark E.",Nevada,2.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/a000369_200.jpg
+Smith,"Smith, Adrian",Nebraska,3.0,Republican,House of Representatives: 2007,https://www.congress.gov/img/member/s001172_200.jpg
+Pallone,"Pallone, Frank",New Jersey,6.0,Democratic,House of Representatives: 1987,https://www.congress.gov/img/member/p000034_200.jpg
+Meeks,"Meeks, Gregory W.",New York,5.0,Democratic,House of Representatives: 1997,https://www.congress.gov/img/member/m001137_200.jpg
+Velázquez,"Velázquez, Nydia M.",New York,7.0,Democratic,House of Representatives: 1993,https://www.congress.gov/img/member/v000081_200.jpg
+Smith,"Smith, Christopher H.",New Jersey,4.0,Republican,House of Representatives: 1981,https://www.congress.gov/img/member/s000522_200.jpg
+Nadler,"Nadler, Jerrold",New York,12.0,Democratic,House of Representatives: 1991,https://www.congress.gov/img/member/n000002_200.jpg
+Foxx,"Foxx, Virginia",North Carolina,5.0,Republican,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_nc_5_foxx_virginia_200.jpg
+Scholten,"Scholten, Hillary J.",Michigan,3.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/s001221_200.jpg
+Ezell,"Ezell, Mike",Mississippi,4.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/e000235_200.jpg
+Davis,"Davis, Donald G.",North Carolina,1.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/d000230_200.jpg
+Burlison,"Burlison, Eric",Missouri,7.0,Republican,House of Representatives: 2023,https://www.congress.gov/img/member/b001316_200.jpg
+Ross,"Ross, Deborah K.",North Carolina,2.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/r000305_200.jpg
+Murphy,"Murphy, Gregory F.",North Carolina,3.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/m001210_200.jpg
+Guest,"Guest, Michael",Mississippi,3.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/g000591_200.jpg
+Stauber,"Stauber, Pete",Minnesota,8.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/s001212_200.jpg
+Omar,"Omar, Ilhan",Minnesota,5.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/o000173_200.jpg
+Tlaib,"Tlaib, Rashida",Michigan,12.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/t000481_200.jpg
+Stevens,"Stevens, Haley M.",Michigan,11.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/s001215_200.jpg
+Pressley,"Pressley, Ayanna",Massachusetts,7.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/p000617_200.jpg
+Bergman,"Bergman, Jack",Michigan,1.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/b001301_200.jpg
+Raskin,"Raskin, Jamie",Maryland,8.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/r000606_200.jpg
+Kelly,"Kelly, Trent",Mississippi,1.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/116_rp_ms_1_kelly_trent_200.jpg
+Zinke,"Zinke, Ryan K.",Montana,1.0,Republican,"House of Representatives: 2015 - 2017
+House of Representatives: 2023",https://www.congress.gov/img/member/117_rp_mt_1_zinke_ryan_200.jpg
+Dingell,"Dingell, Debbie",Michigan,6.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/d000624_200.jpg
+Moolenaar,"Moolenaar, John R.",Michigan,2.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/m001194_200.jpg
+Moulton,"Moulton, Seth",Massachusetts,6.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/m001196_200.jpg
+Clark,"Clark, Katherine M.",Massachusetts,5.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/c001101_200.jpg
+Wagner,"Wagner, Ann",Missouri,2.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/w000812_200.jpg
+Smith,"Smith, Jason",Missouri,8.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/s001195_200.jpg
+Harris,"Harris, Andy",Maryland,1.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/117_rp_md_1_harris_andy_200.jpg
+Walberg,"Walberg, Tim",Michigan,5.0,Republican,"House of Representatives: 2007 - 2009
+House of Representatives: 2011",https://www.congress.gov/img/member/w000798_200.jpg
+Pingree,"Pingree, Chellie",Maine,1.0,Democratic,House of Representatives: 2009,https://www.congress.gov/img/member/p000597_200.jpg
+McGovern,"McGovern, James P.",Massachusetts,2.0,Democratic,House of Representatives: 1997,https://www.congress.gov/img/member/117_rp_ma_2_mcgovern_james_200.jpg
+Thompson,"Thompson, Bennie G.",Mississippi,2.0,Democratic,House of Representatives: 1993,https://www.congress.gov/img/member/t000193_200.jpg
+Neal,"Neal, Richard E.",Massachusetts,1.0,Democratic,House of Representatives: 1989,https://www.congress.gov/img/member/n000015_200.jpg
+Mfume,"Mfume, Kweisi",Maryland,7.0,Democratic,"House of Representatives: 1987 - 1997
+House of Representatives: 2020",https://www.congress.gov/img/member/m000687_200.jpg
+Cleaver,"Cleaver, Emanuel",Missouri,5.0,Democratic,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_mo_5_cleaver_emanuel_200.jpg
+Lynch,"Lynch, Stephen F.",Massachusetts,8.0,Democratic,House of Representatives: 2001,https://www.congress.gov/img/member/l000562_200.jpg
+Graves,"Graves, Sam",Missouri,6.0,Republican,House of Representatives: 2001,https://www.congress.gov/img/member/g000546_200.jpg
+McCollum,"McCollum, Betty",Minnesota,4.0,Democratic,House of Representatives: 2001,https://www.congress.gov/img/member/116_rp_mn_4_mccollum_betty_200.jpg
+Hoyer,"Hoyer, Steny H.",Maryland,5.0,Democratic,House of Representatives: 1981,https://www.congress.gov/img/member/116_rp_md_5_hoyer_steny_200.jpg
+Ramirez,"Ramirez, Delia C.",Illinois,3.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/r000617_200.jpg
+McGarvey,"McGarvey, Morgan",Kentucky,3.0,Democratic,House of Representatives: 2023,https://www.congress.gov/img/member/m001220_200.jpg
+Yakym,"Yakym, Rudy",Indiana,2.0,Republican,House of Representatives: 2022,https://www.congress.gov/img/member/y000067_200.jpg
+Carter,"Carter, Troy A.",Louisiana,2.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/c001125_200.jpg
+Letlow,"Letlow, Julia",Louisiana,5.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/l000595_200.jpg
+Spartz,"Spartz, Victoria",Indiana,5.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/s000929_200.jpg
+Miller,"Miller, Mary E.",Illinois,15.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/m001211_200.jpg
+Mann,"Mann, Tracey",Kansas,1.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/m000871_200.jpg
+Clyde,"Clyde, Andrew S.",Georgia,9.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/c001116_200.jpg
+Davids,"Davids, Sharice",Kansas,3.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/d000629_200.jpg
+Baird,"Baird, James R.",Indiana,4.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/b001307_200.jpg
+Casten,"Casten, Sean",Illinois,6.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/c001117_200.jpg
+Fulcher,"Fulcher, Russ",Idaho,1.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/f000469_200.jpg
+McBath,"McBath, Lucy",Georgia,6.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/m001208_200.jpg
+Estes,"Estes, Ron",Kansas,4.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/e000298_200.jpg
+Johnson,"Johnson, Mike",Louisiana,4.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/j000299_200.jpg
+Higgins,"Higgins, Clay",Louisiana,3.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/h001077_200.jpg
+Krishnamoorthi,"Krishnamoorthi, Raja",Illinois,8.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/k000391_200.jpg
+Comer,"Comer, James",Kentucky,1.0,Republican,House of Representatives: 2016,https://www.congress.gov/img/member/c001108_200.jpg
+Bost,"Bost, Mike",Illinois,12.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/b001295_200.jpg
+Allen,"Allen, Rick W.",Georgia,12.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/a000372_200.jpg
+Loudermilk,"Loudermilk, Barry",Georgia,11.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/115_rp_ga_11_loudermilk_barry_200.jpg
+Barr,"Barr, Andy",Kentucky,6.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/b001282_200.jpg
+Schneider,"Schneider, Bradley Scott",Illinois,10.0,Democratic,"House of Representatives: 2013 - 2015
+House of Representatives: 2017",https://www.congress.gov/img/member/s001190_200.jpg
+Scott,"Scott, Austin",Georgia,8.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/s001189_200.jpg
+Quigley,"Quigley, Mike",Illinois,5.0,Democratic,House of Representatives: 2009,https://www.congress.gov/img/member/q000023_200.jpg
+Foster,"Foster, Bill",Illinois,11.0,Democratic,"House of Representatives: 2008 - 2011
+House of Representatives: 2013",https://www.congress.gov/img/member/f000454_200.jpg
+Carson,"Carson, André",Indiana,7.0,Democratic,House of Representatives: 2008,https://www.congress.gov/img/member/c001072_200.jpg
+Kelly,"Kelly, Robin L.",Illinois,2.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/116_rp_il_2_kelly_robin_200.jpg
+Schakowsky,"Schakowsky, Janice D.",Illinois,9.0,Democratic,House of Representatives: 1999,https://www.congress.gov/img/member/116_rp_il_9_schakowsky_janice_200.jpg
+Davis,"Davis, Danny K.",Illinois,7.0,Democratic,House of Representatives: 1997,https://www.congress.gov/img/member/116_rp_il_7_davis_danny_200.jpg
+Rogers,"Rogers, Harold",Kentucky,5.0,Republican,House of Representatives: 1981,https://www.congress.gov/img/member/r000395_200.jpg
+Case,"Case, Ed",Hawaii,1.0,Democratic,"House of Representatives: 2002 - 2007
+House of Representatives: 2019",https://www.congress.gov/img/member/c001055_200.jpg
+Williams,"Williams, Nikema",Georgia,5.0,Democratic,House of Representatives: 2021,https://www.congress.gov/img/member/w000788_200.jpg
+Salazar,"Salazar, Maria Elvira",Florida,27.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/s000168_200.jpg
+Gimenez,"Gimenez, Carlos A.",Florida,28.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/g000593_200.jpg
+Cammack,"Cammack, Kat",Florida,3.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/c001039_200.jpg
+Boebert,"Boebert, Lauren",Colorado,4.0,Republican,House of Representatives: 2021,https://www.congress.gov/img/member/b000825_200.jpg
+Steube,"Steube, W. Gregory",Florida,17.0,Republican,House of Representatives: 2019,https://www.congress.gov/img/member/s001214_200.jpg
+Crow,"Crow, Jason",Colorado,6.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/c001121_200.jpg
+Neguse,"Neguse, Joe",Colorado,2.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/n000191_200.jpg
+Levin,"Levin, Mike",California,49.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/l000593_200.jpg
+Mast,"Mast, Brian J.",Florida,21.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/116_rp_fl_18_mast_brian_200.jpg
+Soto,"Soto, Darren",Florida,9.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_fl_9_soto_darren_200.jpg
+Rutherford,"Rutherford, John H.",Florida,5.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/r000609_200.jpg
+Dunn,"Dunn, Neal P.",Florida,2.0,Republican,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_fl_2_dunn_neal_200.jpg
+Barragán,"Barragán, Nanette Diaz",California,44.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/b001300_200.jpg
+Carter,"Carter, Earl L. ""Buddy""",Georgia,1.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/c001103_200.jpg
+Frankel,"Frankel, Lois",Florida,22.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/f000462_200.jpg
+Takano,"Takano, Mark",California,39.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/t000472_200.jpg
+Wilson,"Wilson, Frederica S.",Florida,24.0,Democratic,House of Representatives: 2011,https://www.congress.gov/img/member/w000808_200.jpg
+Webster,"Webster, Daniel",Florida,11.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/w000806_200.jpg
+Johnson,"Johnson, Henry C. ""Hank""",Georgia,4.0,Democratic,House of Representatives: 2007,https://www.congress.gov/img/member/j000288_200.jpg
+Bilirakis,"Bilirakis, Gus M.",Florida,12.0,Republican,House of Representatives: 2007,https://www.congress.gov/img/member/117_rp_fl_12_bilirakis_gus_200.jpg
+Courtney,"Courtney, Joe",Connecticut,2.0,Democratic,House of Representatives: 2007,https://www.congress.gov/img/member/c001069_200.jpg
+Himes,"Himes, James A.",Connecticut,4.0,Democratic,House of Representatives: 2009,https://www.congress.gov/img/member/h001047_200.jpg
+Larson,"Larson, John B.",Connecticut,1.0,Democratic,House of Representatives: 1999,https://www.congress.gov/img/member/l000557_200.jpg
+DeGette,"DeGette, Diana",Colorado,1.0,Democratic,House of Representatives: 1997,https://www.congress.gov/img/member/116_rp_co_1_degette_diana_200.jpg
+Waters,"Waters, Maxine",California,43.0,Democratic,House of Representatives: 1991,https://www.congress.gov/img/member/w000187_200.jpg
+Bishop,"Bishop, Sanford D.",Georgia,2.0,Democratic,House of Representatives: 1993,https://www.congress.gov/img/member/b000490_200.jpg
+Norton,"Norton, Eleanor Holmes",District of Columbia,,Democratic,House of Representatives: 1991,https://www.congress.gov/img/member/116_dg_dc_norton_eleanor_200.jpg
+Wasserman Schultz,"Wasserman Schultz, Debbie",Florida,25.0,Democratic,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_fl_23_wassermanschultz_debbie_200.jpg
+Diaz-Balart,"Diaz-Balart, Mario",Florida,26.0,Republican,House of Representatives: 2003,https://www.congress.gov/img/member/116_rp_fl_25_diazbalart_mario_200.jpg
+Issa,"Issa, Darrell",California,48.0,Republican,"House of Representatives: 2001 - 2019
+House of Representatives: 2021",https://www.congress.gov/img/member/i000056_200.jpg
+Calvert,"Calvert, Ken",California,41.0,Republican,House of Representatives: 1993,https://www.congress.gov/img/member/c000059_200.jpg
+DeLauro,"DeLauro, Rosa L.",Connecticut,3.0,Democratic,House of Representatives: 1991,https://www.congress.gov/img/member/116_rp_ct_3_delauro_rosa_200.jpg
+Harder,"Harder, Josh",California,9.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/h001090_200.jpg
+Stanton,"Stanton, Greg",Arizona,4.0,Democratic,House of Representatives: 2019,https://www.congress.gov/img/member/s001211_200.jpg
+Gomez,"Gomez, Jimmy",California,34.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_ca_34_gomez_jimmy_200.jpg
+Carbajal,"Carbajal, Salud O.",California,24.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/115_rp_ca_24_carbajal_salud_200.jpg
+Khanna,"Khanna, Ro",California,17.0,Democratic,House of Representatives: 2017,https://www.congress.gov/img/member/k000389_200.jpg
+Torres,"Torres, Norma J.",California,35.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/t000474_200.jpg
+Lieu,"Lieu, Ted",California,36.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/l000582_200.jpg
+Aguilar,"Aguilar, Pete",California,33.0,Democratic,House of Representatives: 2015,https://www.congress.gov/img/member/a000371_200.jpg
+Westerman,"Westerman, Bruce",Arkansas,4.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/w000821_200.jpg
+Radewagen,"Radewagen, Aumua Amata Coleman",American Samoa,,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/r000600_200.jpg
+Brownley,"Brownley, Julia",California,26.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/b001285_200.jpg
+Valadao,"Valadao, David G.",California,22.0,Republican,"House of Representatives: 2013 - 2019
+House of Representatives: 2021",https://www.congress.gov/img/member/v000129_200.jpg
+Swalwell,"Swalwell, Eric",California,14.0,Democratic,House of Representatives: 2013,https://www.congress.gov/img/member/s001193_200.jpg
+LaMalfa,"LaMalfa, Doug",California,1.0,Republican,House of Representatives: 2013,https://www.congress.gov/img/member/l000578_200.jpg
+Chu,"Chu, Judy",California,28.0,Democratic,House of Representatives: 2009,https://www.congress.gov/img/member/c001080_200.jpg
+Gosar,"Gosar, Paul A.",Arizona,9.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/g000565_200.jpg
+McClintock,"McClintock, Tom",California,5.0,Republican,House of Representatives: 2009,https://www.congress.gov/img/member/m001177_200.jpg
+Pelosi,"Pelosi, Nancy",California,11.0,Democratic,House of Representatives: 1987,https://www.congress.gov/img/member/p000197_200.jpg
+Thompson,"Thompson, Mike",California,4.0,Democratic,House of Representatives: 1999,https://www.congress.gov/img/member/116_rp_ca_5_thompson_mike_200.jpg
+Sherman,"Sherman, Brad",California,32.0,Democratic,House of Representatives: 1997,https://www.congress.gov/img/member/s000344_200.jpg
+Costa,"Costa, Jim",California,21.0,Democratic,House of Representatives: 2005,https://www.congress.gov/img/member/116_rp_ca_16_costa_jim_200.jpg
+Grijalva,"Grijalva, Raúl M.",Arizona,7.0,Democratic,House of Representatives: 2003,https://www.congress.gov/img/member/g000551_200.jpg
+Hill,"Hill, J. French",Arkansas,2.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/h001072_200.jpg
+Palmer,"Palmer, Gary J.",Alabama,6.0,Republican,House of Representatives: 2015,https://www.congress.gov/img/member/p000609_200.jpg
+Womack,"Womack, Steve",Arkansas,3.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/117_rp_ar_3_womack_steve_200.jpg
+Crawford,"Crawford, Eric A. ""Rick""",Arkansas,1.0,Republican,House of Representatives: 2011,https://www.congress.gov/img/member/c001087_200.jpg
+Sewell,"Sewell, Terri A.",Alabama,7.0,Democratic,House of Representatives: 2011,https://www.congress.gov/img/member/s001185_200.jpg
+Rogers,"Rogers, Mike D.",Alabama,3.0,Republican,House of Representatives: 2003,https://www.congress.gov/img/member/116_rp_al_3_rogers_mike_200.jpg
+Good,"Good, Bob",Virginia,5.0,Republican,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/g000595_200.jpg
+Pascrell,"Pascrell, Bill",New Jersey,9.0,Democratic,House of Representatives: 1997 - 2024,https://www.congress.gov/img/member/116_rp_nj_9_pascrell_bill_200.jpg
+Armstrong,"Armstrong, Kelly",North Dakota,0.0,Republican,House of Representatives: 2019 - 2024,https://www.congress.gov/img/member/a000377_200.jpg
+Gaetz,"Gaetz, Matt",Florida,1.0,Republican,House of Representatives: 2017 - 2024,https://www.congress.gov/img/member/116_rp_fl_1_gaetz_matt_200.jpg
+Williams,"Williams, Brandon",New York,22.0,Republican,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/w000828_200.jpg
+Wild,"Wild, Susan",Pennsylvania,7.0,Democratic,House of Representatives: 2018 - 2025,https://www.congress.gov/img/member/116_rp_pa_7_wild_susan_200.jpg
+Wexton,"Wexton, Jennifer",Virginia,10.0,Democratic,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/w000825_200.jpg
+Wenstrup,"Wenstrup, Brad R.",Ohio,2.0,Republican,House of Representatives: 2013 - 2025,https://www.congress.gov/img/member/w000815_200.jpg
+Trone,"Trone, David J.",Maryland,6.0,Democratic,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/t000483_200.jpg
+Spanberger,"Spanberger, Abigail Davis",Virginia,7.0,Democratic,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/s001209_200.jpg
+Sablan,"Sablan, Gregorio Kilili Camacho",Northern Mariana Islands,,Democratic,House of Representatives: 2009 - 2025,https://www.congress.gov/img/member/s001177_200.jpg
+Sarbanes,"Sarbanes, John P.",Maryland,3.0,Democratic,House of Representatives: 2007 - 2025,https://www.congress.gov/img/member/s001168_200.jpg
+Steel,"Steel, Michelle",California,45.0,Republican,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/s001135_200.jpg
+Ruppersberger,"Ruppersberger, C. A. Dutch",Maryland,2.0,Democratic,House of Representatives: 2003 - 2025,https://www.congress.gov/img/member/116_rp_md_2_ruppersberger_c_200.jpg
+Rosendale,"Rosendale, Matthew M.",Montana,2.0,Republican,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/r000103_200.jpg
+Peltola,"Peltola, Mary Sattler",Alaska,0.0,Democratic,House of Representatives: 2022 - 2025,https://www.congress.gov/img/member/p000619_200.jpg
+Porter,"Porter, Katie",California,47.0,Democratic,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/p000618_200.jpg
+Phillips,"Phillips, Dean",Minnesota,3.0,Democratic,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/p000616_200.jpg
+Pence,"Pence, Greg",Indiana,6.0,Republican,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/p000615_200.jpg
+Posey,"Posey, Bill",Florida,8.0,Republican,House of Representatives: 2009 - 2025,https://www.congress.gov/img/member/p000599_200.jpg
+Nickel,"Nickel, Wiley",North Carolina,13.0,Democratic,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/n000194_200.jpg
+Napolitano,"Napolitano, Grace F.",California,31.0,Democratic,House of Representatives: 1999 - 2025,https://www.congress.gov/img/member/116_rp_ca_32_napolitano_grace_200.jpg
+Molinaro,"Molinaro, Marcus J.",New York,19.0,Republican,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/m001221_200.jpg
+Mooney,"Mooney, Alexander X.",West Virginia,2.0,Republican,House of Representatives: 2015 - 2025,https://www.congress.gov/img/member/m001195_200.jpg
+McMorris Rodgers,"McMorris Rodgers, Cathy",Washington,5.0,Republican,House of Representatives: 2005 - 2025,https://www.congress.gov/img/member/m001159_200.jpg
+McHenry,"McHenry, Patrick T.",North Carolina,10.0,Republican,House of Representatives: 2005 - 2025,https://www.congress.gov/img/member/116_rp_nc_10_mchenry_patrick_200.jpg
+Manning,"Manning, Kathy E.",North Carolina,6.0,Democratic,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/m001135_200.jpg
+Lee Carter,"Lee Carter, Erica",Texas,18.0,Democratic,House of Representatives: 2024 - 2025,https://www.congress.gov/img/member/6734b97f4c72e343a6aff9f4_200.jpg
+Lopez,"Lopez, Greg",Colorado,4.0,Republican,House of Representatives: 2024 - 2025,https://www.congress.gov/img/member/668e94fd658443009a697c9e_200.jpg
+Lesko,"Lesko, Debbie",Arizona,8.0,Republican,House of Representatives: 2018 - 2025,https://www.congress.gov/img/member/l000589_200.jpg
+Luetkemeyer,"Luetkemeyer, Blaine",Missouri,3.0,Republican,House of Representatives: 2009 - 2025,https://www.congress.gov/img/member/l000569_200.jpg
+Lamborn,"Lamborn, Doug",Colorado,5.0,Republican,House of Representatives: 2007 - 2025,https://www.congress.gov/img/member/l000564_200.jpg
+Lee,"Lee, Barbara",California,12.0,Democratic,House of Representatives: 1997 - 2025,https://www.congress.gov/img/member/116_rp_ca_13_lee_barbara_200.jpg
+LaTurner,"LaTurner, Jake",Kansas,2.0,Republican,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/l000266_200.jpg
+Kuster,"Kuster, Ann M.",New Hampshire,2.0,Democratic,House of Representatives: 2013 - 2025,https://www.congress.gov/img/member/k000382_200.jpg
+Kilmer,"Kilmer, Derek",Washington,6.0,Democratic,House of Representatives: 2013 - 2025,https://www.congress.gov/img/member/k000381_200.jpg
+Kildee,"Kildee, Daniel T.",Michigan,8.0,Democratic,House of Representatives: 2013 - 2025,https://www.congress.gov/img/member/k000380_200.jpg
+Graves,"Graves, Garret",Louisiana,6.0,Republican,House of Representatives: 2015 - 2025,https://www.congress.gov/img/member/115_rp_la_6_graves_garret_200.jpg
+Granger,"Granger, Kay",Texas,12.0,Republican,House of Representatives: 1997 - 2025,https://www.congress.gov/img/member/g000377_200.jpg
+Ferguson,"Ferguson, A. Drew",Georgia,3.0,Republican,House of Representatives: 2017 - 2025,https://www.congress.gov/img/member/116_rp_ga_3_ferguson_a_200.jpg
+Eshoo,"Eshoo, Anna G.",California,16.0,Democratic,House of Representatives: 1993 - 2025,https://www.congress.gov/img/member/e000215_200.jpg
+Duarte,"Duarte, John S.",California,13.0,Republican,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/d000633_200.jpg
+D'Esposito,"D'Esposito, Anthony",New York,4.0,Republican,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/d000632_200.jpg
+Duncan,"Duncan, Jeff",South Carolina,3.0,Republican,House of Representatives: 2011 - 2025,https://www.congress.gov/img/member/d000615_200.jpg
+Chavez-DeRemer,"Chavez-DeRemer, Lori",Oregon,5.0,Republican,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/c001135_200.jpg
+Caraveo,"Caraveo, Yadira",Colorado,8.0,Democratic,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/c001134_200.jpg
+Cárdenas,"Cárdenas, Tony",California,29.0,Democratic,House of Representatives: 2013 - 2025,https://www.congress.gov/img/member/c001097_200.jpg
+Cartwright,"Cartwright, Matt",Pennsylvania,8.0,Democratic,House of Representatives: 2013 - 2025,https://www.congress.gov/img/member/117_rp_pa_8_cartwright_matt_200.jpg
+Carl,"Carl, Jerry L.",Alabama,1.0,Republican,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/c001054_200.jpg
+Bishop,"Bishop, Dan",North Carolina,8.0,Republican,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/b001311_200.jpg
+Bucshon,"Bucshon, Larry",Indiana,8.0,Republican,House of Representatives: 2011 - 2025,https://www.congress.gov/img/member/115_rp_in_8_bucshon_larry_200.jpg
+Burgess,"Burgess, Michael C.",Texas,26.0,Republican,House of Representatives: 2003 - 2025,https://www.congress.gov/img/member/b001248_200.jpg
+Bush,"Bush, Cori",Missouri,1.0,Democratic,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/b001224_200.jpg
+Bowman,"Bowman, Jamaal",New York,16.0,Democratic,House of Representatives: 2021 - 2025,https://www.congress.gov/img/member/b001223_200.jpg
+Blumenauer,"Blumenauer, Earl",Oregon,3.0,Democratic,House of Representatives: 1995 - 2025,https://www.congress.gov/img/member/b000574_200.jpg
+Allred,"Allred, Colin Z.",Texas,32.0,Democratic,House of Representatives: 2019 - 2025,https://www.congress.gov/img/member/a000376_200.jpg
+Casey,"Casey, Robert P., Jr.",Pennsylvania,,Democratic,Senate: 2007 - 2025,https://www.congress.gov/img/member/c001070_200.jpg
+Tester,"Tester, Jon",Montana,,Democratic,Senate: 2007 - 2025,https://www.congress.gov/img/member/t000464_200.jpg
+Sinema,"Sinema, Kyrsten",Arizona,,Independent,"House of Representatives: 2013 - 2019
+Senate: 2019 - 2025",https://www.congress.gov/img/member/s001191_200.jpg
+Stabenow,"Stabenow, Debbie",Michigan,,Democratic,"House of Representatives: 1997 - 2001
+Senate: 2001 - 2025",https://www.congress.gov/img/member/s000770_200.jpg
+Romney,"Romney, Mitt",Utah,,Republican,Senate: 2019 - 2025,https://www.congress.gov/img/member/r000615_200.jpg
+Manchin,"Manchin, Joe, III",West Virginia,,Independent,Senate: 2010 - 2025,https://www.congress.gov/img/member/m001183_200.jpg
+Carper,"Carper, Thomas R.",Delaware,,Democratic,"House of Representatives: 1983 - 1993
+Senate: 2001 - 2025",https://www.congress.gov/img/member/c000174_200.jpg
+Cardin,"Cardin, Benjamin L.",Maryland,,Democratic,"House of Representatives: 1987 - 2007
+Senate: 2007 - 2025",https://www.congress.gov/img/member/c000141_200.jpg
+Braun,"Braun, Mike",Indiana,,Republican,Senate: 2019 - 2025,https://www.congress.gov/img/member/b001310_200.jpg
+Helmy,"Helmy, George S.",New Jersey,,Democratic,Senate: 2024 - 2024,https://www.congress.gov/img/member/6705445b99dce9b5b414f5d4_200.jpg
+Butler,"Butler, Laphonza R.",California,,Democratic,Senate: 2023 - 2024,https://www.congress.gov/img/member/b001320_200.jpg
+Santos,"Santos, George",New York,3.0,Republican,House of Representatives: 2023 - 2023,https://www.congress.gov/img/member/s001222_200.jpg
+Jackson,"Jackson, Jeff",North Carolina,14.0,Democratic,House of Representatives: 2023 - 2025,https://www.congress.gov/img/member/j000308_200.jpg
+Gallagher,"Gallagher, Mike",Wisconsin,8.0,Republican,House of Representatives: 2017 - 2024,https://www.congress.gov/img/member/115_rp_wi_8_gallagher_mike_200.jpg
+González-Colón,"González-Colón, Jenniffer",Puerto Rico,,Republican,House of Representatives: 2017 - 2025,https://www.congress.gov/img/member/g000582_200.jpg
+Sasse,"Sasse, Ben",Nebraska,,Republican,Senate: 2015 - 2023,https://www.congress.gov/img/member/s001197_200.jpg
+Buck,"Buck, Ken",Colorado,4.0,Republican,House of Representatives: 2015 - 2024,https://www.congress.gov/img/member/115_rp_co_4_buck_ken_200.jpg
+Stewart,"Stewart, Chris",Utah,2.0,Republican,House of Representatives: 2013 - 2023,https://www.congress.gov/img/member/s001192_200.jpg
+Payne,"Payne, Donald M.",New Jersey,10.0,Democratic,House of Representatives: 2012 - 2024,https://www.congress.gov/img/member/p000604_200.jpg
+Cicilline,"Cicilline, David N.",Rhode Island,1.0,Democratic,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/115_rp_ri_1_cicilline_david_200.jpg
+Johnson,"Johnson, Bill",Ohio,6.0,Republican,House of Representatives: 2011 - 2024,https://www.congress.gov/img/member/j000292_200.jpg
+McCarthy,"McCarthy, Kevin",California,20.0,Republican,House of Representatives: 2007 - 2023,https://www.congress.gov/img/member/m001165_200.jpg
+Feinstein,"Feinstein, Dianne",California,,Democratic,Senate: 1992 - 2023,https://www.congress.gov/img/member/f000062_200.jpg
+Higgins,"Higgins, Brian",New York,26.0,Democratic,House of Representatives: 2005 - 2024,https://www.congress.gov/img/member/h001038_200.jpg
+Jackson Lee,"Jackson Lee, Sheila",Texas,18.0,Democratic,House of Representatives: 1995 - 2024,https://www.congress.gov/img/member/j000032_200.jpg
+Inhofe,"Inhofe, James M.",Oklahoma,,Republican,"House of Representatives: 1987 - 1995
+Senate: 1994 - 2023",https://www.congress.gov/img/member/i000024_200.jpg
+McEachin,"McEachin, A. Donald",Virginia,4.0,Democratic,House of Representatives: 2017 - 2022,https://www.congress.gov/img/member/116_rp_va_4_mceachin_a_200.jpg
+Newman,"Newman, Marie",Illinois,3.0,Democratic,House of Representatives: 2021 - 2023,https://www.congress.gov/img/member/n000192_200.jpg
+Meijer,"Meijer, Peter",Michigan,3.0,Republican,House of Representatives: 2021 - 2023,https://www.congress.gov/img/member/m001186_200.jpg
+Kahele,"Kahele, Kaiali'i",Hawaii,2.0,Democratic,House of Representatives: 2021 - 2023,https://www.congress.gov/img/member/k000396_200.jpg
+Jones,"Jones, Mondaire",New York,17.0,Democratic,House of Representatives: 2021 - 2023,https://www.congress.gov/img/member/j000306_200.jpg
+Herrell,"Herrell, Yvette",New Mexico,2.0,Republican,House of Representatives: 2021 - 2023,https://www.congress.gov/img/member/h001084_200.jpg
+Cawthorn,"Cawthorn, Madison",North Carolina,11.0,Republican,House of Representatives: 2021 - 2023,https://www.congress.gov/img/member/c001104_200.jpg
+Bourdeaux,"Bourdeaux, Carolyn",Georgia,7.0,Democratic,House of Representatives: 2021 - 2023,https://www.congress.gov/img/member/b001312_200.jpg
+Jacobs,"Jacobs, Chris",New York,27.0,Republican,House of Representatives: 2020 - 2023,https://www.congress.gov/img/member/j000020_200.jpg
+Keller,"Keller, Fred",Pennsylvania,12.0,Republican,House of Representatives: 2019 - 2023,https://www.congress.gov/img/member/k000395_200.jpg
+Luria,"Luria, Elaine G.",Virginia,2.0,Democratic,House of Representatives: 2019 - 2023,https://www.congress.gov/img/member/l000591_200.jpg
+Taylor,"Taylor, Van",Texas,3.0,Republican,House of Representatives: 2019 - 2023,https://www.congress.gov/img/member/t000479_200.jpg
+Gonzalez,"Gonzalez, Anthony",Ohio,16.0,Republican,House of Representatives: 2019 - 2023,https://www.congress.gov/img/member/g000588_200.jpg
+Malinowski,"Malinowski, Tom",New Jersey,7.0,Democratic,House of Representatives: 2019 - 2023,https://www.congress.gov/img/member/m001203_200.jpg
+Axne,"Axne, Cynthia",Iowa,3.0,Democratic,House of Representatives: 2019 - 2023,https://www.congress.gov/img/member/a000378_200.jpg
+San Nicolas,"San Nicolas, Michael F. Q.",Guam,0.0,Democratic,House of Representatives: 2019 - 2023,https://www.congress.gov/img/member/s001204_200.jpg
+Lamb,"Lamb, Conor",Pennsylvania,17.0,Democratic,House of Representatives: 2018 - 2023,https://www.congress.gov/img/member/115_rp_pa_18_lamb_conor_200.jpg
+Cheney,"Cheney, Liz",Wyoming,0.0,Republican,House of Representatives: 2017 - 2023,https://www.congress.gov/img/member/c001109_200.jpg
+Brown,"Brown, Anthony G.",Maryland,4.0,Democratic,House of Representatives: 2017 - 2023,https://www.congress.gov/img/member/b001304_200.jpg
+Hollingsworth,"Hollingsworth, Trey",Indiana,9.0,Republican,House of Representatives: 2017 - 2023,https://www.congress.gov/img/member/115_rp_in_9_hollingsworth_trey_200.jpg
+Demings,"Demings, Val Butler",Florida,10.0,Democratic,House of Representatives: 2017 - 2023,https://www.congress.gov/img/member/d000627_200.jpg
+Murphy,"Murphy, Stephanie N.",Florida,7.0,Democratic,House of Representatives: 2017 - 2023,https://www.congress.gov/img/member/m001202_200.jpg
+Lawson,"Lawson, Al, Jr.",Florida,5.0,Democratic,House of Representatives: 2017 - 2023,https://www.congress.gov/img/member/116_rp_fl_5_lawson_al_200.jpg
+O'Halleran,"O'Halleran, Tom",Arizona,1.0,Democratic,House of Representatives: 2017 - 2023,https://www.congress.gov/img/member/o000171_200.jpg
+Katko,"Katko, John",New York,24.0,Republican,House of Representatives: 2015 - 2023,https://www.congress.gov/img/member/115_rp_ny_24_katko_john_200.jpg
+Rice,"Rice, Kathleen M.",New York,4.0,Democratic,House of Representatives: 2015 - 2023,https://www.congress.gov/img/member/r000602_200.jpg
+Zeldin,"Zeldin, Lee M.",New York,1.0,Republican,House of Representatives: 2015 - 2023,https://www.congress.gov/img/member/z000017_200.jpg
+Lawrence,"Lawrence, Brenda L.",Michigan,14.0,Democratic,House of Representatives: 2015 - 2023,https://www.congress.gov/img/member/l000581_200.jpg
+Hice,"Hice, Jody B.",Georgia,10.0,Republican,House of Representatives: 2015 - 2023,https://www.congress.gov/img/member/h001071_200.jpg
+Rice,"Rice, Tom",South Carolina,7.0,Republican,House of Representatives: 2013 - 2023,https://www.congress.gov/img/member/r000597_200.jpg
+Maloney,"Maloney, Sean Patrick",New York,18.0,Democratic,House of Representatives: 2013 - 2023,https://www.congress.gov/img/member/m001185_200.jpg
+Walorski,"Walorski, Jackie",Indiana,2.0,Republican,House of Representatives: 2013 - 2022,https://www.congress.gov/img/member/w000813_200.jpg
+Bustos,"Bustos, Cheri",Illinois,17.0,Democratic,House of Representatives: 2013 - 2023,https://www.congress.gov/img/member/b001286_200.jpg
+Lowenthal,"Lowenthal, Alan S.",California,47.0,Democratic,House of Representatives: 2013 - 2023,https://www.congress.gov/img/member/l000579_200.jpg
+Speier,"Speier, Jackie",California,14.0,Democratic,House of Representatives: 2008 - 2023,https://www.congress.gov/img/member/s001175_200.jpg
+Sires,"Sires, Albio",New Jersey,8.0,Democratic,House of Representatives: 2005 - 2023,https://www.congress.gov/img/member/s001165_200.jpg
+Reed,"Reed, Tom",New York,23.0,Republican,House of Representatives: 2010 - 2022,https://www.congress.gov/img/member/r000585_200.jpg
+McKinley,"McKinley, David B.",West Virginia,1.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/m001180_200.jpg
+Herrera Beutler,"Herrera Beutler, Jaime",Washington,3.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/h001056_200.jpg
+Gibbs,"Gibbs, Bob",Ohio,7.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/g000563_200.jpg
+Palazzo,"Palazzo, Steven M.",Mississippi,4.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/p000601_200.jpg
+Long,"Long, Billy",Missouri,7.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/l000576_200.jpg
+Hartzler,"Hartzler, Vicky",Missouri,4.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/h001053_200.jpg
+Kinzinger,"Kinzinger, Adam",Illinois,16.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/k000378_200.jpg
+Bass,"Bass, Karen",California,37.0,Democratic,House of Representatives: 2011 - 2022,https://www.congress.gov/img/member/115_rp_ca_37_bass_karen_200.jpg
+Brooks,"Brooks, Mo",Alabama,5.0,Republican,House of Representatives: 2011 - 2023,https://www.congress.gov/img/member/b001274_200.jpg
+Yarmuth,"Yarmuth, John A.",Kentucky,3.0,Democratic,House of Representatives: 2007 - 2023,https://www.congress.gov/img/member/y000062_200.jpg
+Perlmutter,"Perlmutter, Ed",Colorado,7.0,Democratic,House of Representatives: 2007 - 2023,https://www.congress.gov/img/member/p000593_200.jpg
+McNerney,"McNerney, Jerry",California,9.0,Democratic,House of Representatives: 2007 - 2023,https://www.congress.gov/img/member/m001166_200.jpg
+Schrader,"Schrader, Kurt",Oregon,5.0,Democratic,House of Representatives: 2009 - 2023,https://www.congress.gov/img/member/s001180_200.jpg
+Kirkpatrick,"Kirkpatrick, Ann",Arizona,2.0,Democratic,"House of Representatives: 2009 - 2011
+House of Representatives: 2013 - 2017
+House of Representatives: 2019 - 2023",https://www.congress.gov/img/member/k000368_200.jpg
+Price,"Price, David E.",North Carolina,4.0,Democratic,"House of Representatives: 1987 - 1995
+House of Representatives: 1997 - 2023",https://www.congress.gov/img/member/p000523_200.jpg
+Portman,"Portman, Rob",Ohio,,Republican,"House of Representatives: 1993 - 2007
+Senate: 2011 - 2023",https://www.congress.gov/img/member/p000449_200.jpg
+Toomey,"Toomey, Patrick",Pennsylvania,,Republican,"House of Representatives: 1999 - 2005
+Senate: 2011 - 2023",https://www.congress.gov/img/member/t000461_200.jpg
+Kind,"Kind, Ron",Wisconsin,3.0,Democratic,House of Representatives: 1997 - 2023,https://www.congress.gov/img/member/116_rp_wi_3_kind_ron_200.jpg
+Brady,"Brady, Kevin",Texas,8.0,Republican,House of Representatives: 1997 - 2023,https://www.congress.gov/img/member/b000755_200.jpg
+Blunt,"Blunt, Roy",Missouri,,Republican,"House of Representatives: 1997 - 2011
+Senate: 2011 - 2023",https://www.congress.gov/img/member/b000575_200.jpg
+Young,"Young, Don",Alaska,0.0,Republican,House of Representatives: 1973 - 2022,https://www.congress.gov/img/member/116_rp_ak_0_young_don_200.jpg
+Upton,"Upton, Fred",Michigan,6.0,Republican,House of Representatives: 1987 - 2023,https://www.congress.gov/img/member/u000031_200.jpg
+Shelby,"Shelby, Richard C.",Alabama,,Republican,"House of Representatives: 1979 - 1987
+Senate: 1987 - 2023",https://www.congress.gov/img/member/s000320_200.jpg
+Rush,"Rush, Bobby L.",Illinois,1.0,Democratic,House of Representatives: 1993 - 2023,https://www.congress.gov/img/member/r000515_200.jpg
+Roybal-Allard,"Roybal-Allard, Lucille",California,40.0,Democratic,House of Representatives: 1993 - 2023,https://www.congress.gov/img/member/r000486_200.jpg
+Leahy,"Leahy, Patrick J.",Vermont,,Democratic,Senate: 1975 - 2023,https://www.congress.gov/img/member/l000174_200.jpg
+Gohmert,"Gohmert, Louie",Texas,1.0,Republican,House of Representatives: 2005 - 2023,https://www.congress.gov/img/member/116_rp_tx_1_gohmert_louie_200.jpg
+Butterfield,"Butterfield, G. K.",North Carolina,1.0,Democratic,House of Representatives: 2004 - 2022,https://www.congress.gov/img/member/b001251_200.jpg
+Ryan,"Ryan, Tim",Ohio,13.0,Democratic,House of Representatives: 2003 - 2023,https://www.congress.gov/img/member/116_rp_oh_13_ryan_tim_200.jpg
+Langevin,"Langevin, James R.",Rhode Island,2.0,Democratic,House of Representatives: 2001 - 2023,https://www.congress.gov/img/member/116_rp_ri_2_langevin_james_200.jpg
+Cooper,"Cooper, Jim",Tennessee,5.0,Democratic,"House of Representatives: 1983 - 1995
+House of Representatives: 2003 - 2023",https://www.congress.gov/img/member/c000754_200.jpg
+Chabot,"Chabot, Steve",Ohio,1.0,Republican,"House of Representatives: 1995 - 2009
+House of Representatives: 2011 - 2023",https://www.congress.gov/img/member/c000266_200.jpg
+Burr,"Burr, Richard",North Carolina,,Republican,"House of Representatives: 1995 - 2005
+Senate: 2005 - 2023",https://www.congress.gov/img/member/b001135_200.jpg
+Doyle,"Doyle, Michael F.",Pennsylvania,18.0,Democratic,House of Representatives: 1995 - 2022,https://www.congress.gov/img/member/116_rp_pa_18_doyle_michael_200.jpg
+DeFazio,"DeFazio, Peter A.",Oregon,4.0,Democratic,House of Representatives: 1987 - 2023,https://www.congress.gov/img/member/d000191_200.jpg
+Levin,"Levin, Andy",Michigan,9.0,Democratic,House of Representatives: 2019 - 2023,
+Sempolinski,"Sempolinski, Joseph",New York,23.0,Republican,House of Representatives: 2022 - 2023,https://www.congress.gov/img/member/s001219_200.jpg
+Flores,"Flores, Mayra",Texas,34.0,Republican,House of Representatives: 2022 - 2023,https://www.congress.gov/img/member/f000473_200.jpg
+Conway,"Conway, Connie",California,22.0,Republican,House of Representatives: 2022 - 2023,https://www.congress.gov/img/member/c001128_200.jpg
+Loeffler,"Loeffler, Kelly",Georgia,,Republican,Senate: 2020 - 2021,https://www.congress.gov/img/member/l000594_200.jpg
+Wright,"Wright, Ron",Texas,6.0,Republican,House of Representatives: 2019 - 2021,https://www.congress.gov/img/member/w000827_200.jpg
+Delgado,"Delgado, Antonio",New York,19.0,Democratic,House of Representatives: 2019 - 2022,https://www.congress.gov/img/member/d000630_200.jpg
+Haaland,"Haaland, Debra A.",New Mexico,1.0,Democratic,House of Representatives: 2019 - 2021,https://www.congress.gov/img/member/h001080_200.jpg
+Hagedorn,"Hagedorn, Jim",Minnesota,1.0,Republican,House of Representatives: 2019 - 2022,https://www.congress.gov/img/member/h001088_200.jpg
+Crist,"Crist, Charlie",Florida,13.0,Democratic,House of Representatives: 2017 - 2022,https://www.congress.gov/img/member/116_rp_fl_13_crist_charlie_200.jpg
+Harris,"Harris, Kamala D.",California,,Democratic,Senate: 2017 - 2021,https://www.congress.gov/img/member/h001075_200.jpg
+Vela,"Vela, Filemon",Texas,34.0,Democratic,House of Representatives: 2013 - 2022,https://www.congress.gov/img/member/v000132_200.jpg
+Deutch,"Deutch, Theodore E.",Florida,22.0,Democratic,House of Representatives: 2010 - 2022,https://www.congress.gov/img/member/d000610_200.jpg
+Stivers,"Stivers, Steve",Ohio,15.0,Republican,House of Representatives: 2011 - 2021,https://www.congress.gov/img/member/s001187_200.jpg
+Richmond,"Richmond, Cedric L.",Louisiana,2.0,Democratic,House of Representatives: 2011 - 2021,https://www.congress.gov/img/member/r000588_200.jpg
+Fudge,"Fudge, Marcia L.",Ohio,11.0,Democratic,House of Representatives: 2008 - 2021,https://www.congress.gov/img/member/f000455_200.jpg
+Fortenberry,"Fortenberry, Jeff",Nebraska,1.0,Republican,House of Representatives: 2005 - 2022,https://www.congress.gov/img/member/116_rp_ne_1_fortenberry_jeff_200.jpg
+Nunes,"Nunes, Devin",California,22.0,Republican,House of Representatives: 2003 - 2022,https://www.congress.gov/img/member/n000181_200.jpg
+Hastings,"Hastings, Alcee L.",Florida,20.0,Democratic,House of Representatives: 1993 - 2021,https://www.congress.gov/img/member/h000324_200.jpg
