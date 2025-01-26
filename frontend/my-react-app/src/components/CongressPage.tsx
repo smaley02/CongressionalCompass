@@ -1,17 +1,20 @@
 import React, { useState, useEffect } from 'react';
-import Papa from 'papaparse'; // Make sure to install this library
+import Papa from 'papaparse';
 import '../styles/CongressPage.css'; // Ensure you have this CSS file in your project
 
 interface Candidate {
   Name: string;
-  Processed_Name: string;
+  LastName: string;
   State: string;
+  District: string;
   Party: string;
-  Congresses: string;
+  Term: string;
+  ImageUrl: string;
 }
 
 const CongressPage: React.FC = () => {
   const [candidates, setCandidates] = useState<Candidate[]>([]);
+  const [selectedCandidate, setSelectedCandidate] = useState<Candidate | null>(null);
 
   useEffect(() => {
     const fetchCandidates = async () => {
@@ -44,20 +47,39 @@ const CongressPage: React.FC = () => {
     fetchCandidates();
   }, []);
 
+  const handleViewCompass = (candidate: Candidate) => {
+    setSelectedCandidate(candidate);
+  };
+
+  const handleCloseCompass = () => {
+    setSelectedCandidate(null);
+  };
+
   return (
     <div className="top-aligned-page">
       <div className="overlay"></div>
       <div className="list">
         {candidates.map((candidate, index) => (
           <div key={index} className="list-row">
-            {/* <span>{candidate.Name}</span> */}
-            <span>{candidate.Processed_Name}</span>
+            <span>{candidate.Name}</span>
             <span>{candidate.State}</span>
+            <span>District: {candidate.District}</span>
             <span>{candidate.Party}</span>
-            <span>{candidate.Congresses}</span>
+            <span>{candidate.Term}</span>
+            <span onClick={() => handleViewCompass(candidate)} className="view-compass">View political compass</span>
           </div>
         ))}
       </div>
+
+      {selectedCandidate && (
+        <div className="compass-container">
+          <div className="compass-overlay" onClick={handleCloseCompass}></div>
+          <div className="compass-content">
+            <span className="close-button" onClick={handleCloseCompass}>&times;</span>
+            <img src={`/Master_Compass/${selectedCandidate.LastName}.png`} alt={`${selectedCandidate.LastName} political compass`} />
+          </div>
+        </div>
+      )}
     </div>
   );
 };

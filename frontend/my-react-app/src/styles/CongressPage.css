@@ -45,6 +45,7 @@
   .list-row {
     display: flex;
     justify-content: space-between;
+    align-items: center;    /* Center vertically */
     width: 100%;
     background-color: rgba(255, 255, 255, 0.8);
     padding: 10px 20px;
@@ -70,4 +71,57 @@
       transform: translateY(0);
       opacity: 1;
     }
+  }
+
+  .view-compass {
+    color: #007bff;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .view-compass:hover {
+    color: #0056b3;
+  }
+  
+  .compass-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .compass-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  
+  .compass-content {
+    position: relative;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1001;
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  img {
+    max-width: 100%;
+    max-height: 80vh;
   }
