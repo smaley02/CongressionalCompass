@@ -1,5 +1,7 @@
 # SwampHacks2025 Project: Understanding Political Polarization and Congressional Voting
 
+https://devpost.com/software/congressional-compass
+
 ## Inspiration
 
 Political polarization has become increasingly **obvious** and **divisive** in recent years. It's more than just a difference of opinion—it's a barrier to meaningful discourse. Real understanding of politics is often not widespread. Instead of thoughtful discussion and informed arguments, many people resort to emotional appeals or blindly accept information that aligns with their personal beliefs or agendas. This results in a society where the general public is disconnected from the actual workings of their government. 
