@@ -20,7 +20,7 @@ const App: React.FC = () => {
             <ul>
               <li><Link to="/">Welcome</Link></li>
               <li><Link to="/congress">Members of Congress</Link></li>
-              <li><Link to="/bills">Bills Page</Link></li>
+              {/* <li><Link to="/bills">Bills Page</Link></li> */}
             </ul>
           </nav>
         </header>
@@ -28,7 +28,7 @@ const App: React.FC = () => {
           <Routes>
             <Route path="/" element={<WelcomePage />} />
             <Route path="/congress" element={<CongressPage />} />
-            <Route path="/bills" element={<BillsPage />} />
+            {/* <Route path="/bills" element={<BillsPage />} /> */}
             <Route path="/congress119" element={<Congress119 />} />
             <Route path="/congress118" element={<Congress118 />} />
             {/* <Route path="/congress117" element={<Congress117 />} />
